@@ -22,7 +22,7 @@
                 const file = e.target.files[0];
                 if (!file) return;
                 const txt = await file.text();
-                state.rows = await loadCsvAndNormalize(txt);
+                state.rows = await loadCsv(txt);
                 rerender();
             });
 
