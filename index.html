@@ -1,22 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Upload a CSV of course sections and visualize conflict density across days and times to pick optimal event slots." />
-    <title>Class Scheduling Web App</title>
-    <link rel=""stylesheet" href="CSS/style.css"/>
-    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Upload a CSV of course sections and visualize conflict density 
+        across days and times to pick optimal event slots." />
+        <title>Class Scheduling Web App</title>
+        <link rel=""stylesheet" href="CSS/style.css"/>
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 
-    <script type="module">
-        import { state, initControls } from './JS/state.js';
-        import { loadCsv } from './JS/parse.js';
-        import { aggregate } from './JS/aggregate.js';
-        import { renderAll } from './JS/charts.js'
-    </script>
-</head>
-<body>
-    <!-- Content will go here -->
-</body>
+        <script type="module">
+            import { state, initControls } from './JS/state.js';
+            import { loadCsv } from './JS/parse.js';
+            import { aggregate } from './JS/aggregate.js';
+            import { renderAll } from './JS/charts.js'
+
+            // process CSV input
+            const fileInput = document.getElementById('file');
+            fileInput.addEventListener('change', async e => {
+                const file = e.target.files[0];
+                if (!file) return;
+                const txt = await file.text();
+                state.rows = await loadCsvAndNormalize(txt);
+                rerender();
+            });
+
+            // handle redrawing data visualizations
+            function rerender() {
+                const agg = aggregate(state);
+                renderAll(agg, state);
+            }
+
+            initControls(state, rerender);
+        </script>
+    </head>
+    <body>
+        <h1>Class Scheduling Visualizer</h1>
+        <input id="file" type="file" accept=".csv" />
+        <!-- space for controls + canvas/svg -->
+        <canvas id="barChart"></canvas>
+        <svg id="heatmap" width="800" height="400"></svg> <!-- contains placeholder dimensions -->
+        <div id="topSlots"></div>
+    </body>
 </html>
