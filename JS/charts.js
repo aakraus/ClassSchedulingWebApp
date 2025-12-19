@@ -2,7 +2,7 @@
 
 let barChart;
 const dayOrder = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
-const label = (m) => {
+const timeLabel = (m) => {
     const h = Math.floor(m/60), mm=String(m%60).padStart(2,'0');
     const ampm = h >= 12 ? "PM" : "AM"; 
     const hh = ((h+11)%12)+1; 
@@ -18,10 +18,30 @@ export function clearCharts() {
 
 export function renderAll({ timeAxis, days, matrix }, state) {
     // export function for visualization rendering
+    renderBar(timeAxis, days, matrix);
+    renderHeatmap(timeAxis, days, matrix);
+    renderTop5(timeAxis, days, matrix);
 }
 
 function renderBar(timeAxis, days, matrix, state) {
     // render bar chart
+    const labels = timeAxis.map(timeLabel);
+    const series = matrix.reduce(
+        (acc, row) => acc.map((v, i) => v + row[i]), 
+        Array(timeAxis.length).fill(0)
+    );
+
+    if (barChart) barChart.destroy();
+    const ctx = document.getElementById('barChart').getContext('2d');
+    barChart = new Chart(ctx, {
+        type: 'bar',
+        data: { labels, datasets: [{ label: 'All selected days', data: series }] },
+        options: {
+            responsive: true,
+            plugins: { legend: { display: true } },
+            scales: { x: { ticks: { maxRotation: 0 } } }
+        }
+    });
 }
 
 function renderHeatmap(timeAxis, days, matrix) {
