@@ -9,6 +9,13 @@ const label = (m) => {
     return `${hh}:${mm} ${ampm}`;
 };
 
+export function clearCharts() {
+    // export function for clearing all charts
+    if (barChart) { barChart.destroy(); barChart = null; }
+    d3.select('#heatmap').selectAll('*').remove();
+    document.getElementById('topSlots').innerHTML = '';
+}
+
 export function renderAll({ timeAxis, days, matrix }, state) {
     // export function for visualization rendering
 }
