@@ -2,9 +2,11 @@
 
 let barChart;
 const dayOrder = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
-const label = m => {
-    const h=Math.floor(m/60), mm=String(m%60).padStart(2,'0');
-    const ampm=h>=12?"PM":"AM"; const hh=((h+11)%12)+1; return `${hh}:${mm} ${ampm}`;
+const label = (m) => {
+    const h = Math.floor(m/60), mm=String(m%60).padStart(2,'0');
+    const ampm = h >= 12 ? "PM" : "AM"; 
+    const hh = ((h+11)%12)+1; 
+    return `${hh}:${mm} ${ampm}`;
 };
 
 export function renderAll({ timeAxis, days, matrix }, state) {
