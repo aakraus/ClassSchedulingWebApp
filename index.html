@@ -22,7 +22,17 @@
                 const file = e.target.files[0];
                 if (!file) return;
                 const txt = await file.text();
-                state.rows = await loadCsv(txt);
+                
+                // return an object with rows, skipped, and depts. 
+                const parsedData = await loadCSV(txt);
+                state.rows = parsedData.rows;
+                
+                // populate the list for department filtering
+                const deptList = document.getElementById('deptList');
+                if (deptList) {
+                    deptList.innerHTML = parsedData.depts.map(d => `<option value="${d}"></option>`).join('');
+                }
+                
                 rerender();
             });
 
@@ -36,11 +46,58 @@
         </script>
     </head>
     <body>
-        <h1>Class Scheduling Visualizer</h1>
-        <input id="file" type="file" accept=".csv" />
-        <!-- space for controls + canvas/svg -->
-        <canvas id="barChart"></canvas>
-        <svg id="heatmap" width="800" height="400"></svg> <!-- contains placeholder dimensions -->
-        <div id="topSlots"></div>
+        <header>
+            <h1>Class Scheduling Visualizer</h1>
+            <p class="sub">Upload a CSV with course sections to visualize conflict density.</p>
+        </header>
+        
+        <div class="controls">
+            <label>
+                <span>Upload CSV</span>
+                 <input id="file" type="file" accept=".csv" />
+            </label>
+            <label>
+                <span>Bucket Size (mins)</span>
+                <select id="bucket">
+                    <option value="75" selected>75</option>
+                    <option value="150">150</option>
+                    <option value="180">180</option>
+                    <option value="360">360</option>
+                </select>
+            </label>
+            <label>
+                <span>Days</span>
+                <select id="days" multiple>
+                    <option value="Mon" selected>Monday</option>
+                    <option value="Tue" selected>Tuesday</option>
+                    <option value="Wed" selected>Wednesday</option>
+                    <option value="Thu" selected>Thursday</option>
+                    <option value="Fri" selected>Friday</option>
+                </select>
+            </label>
+            <label>
+                <span>Department</span>
+                <input id="department" type="text" list="deptList" placeholder="All" />
+                <datalist id="deptList"></datalist>
+            </label>
+            <label>
+                <span>Weight By</span>
+                <select id="weight">
+                    <option value="enrolled" selected>Enrollment</option>
+                    <option value="count">Class Count</option>
+                </select>
+            </label>
+        </div>
+
+        <main>
+            <div class="viz">
+                <canvas id="barChart"></canvas>
+            </div>
+            <div class="viz">
+                <svg id="heatmap" width="800" height="400"></svg>
+            </div>
+            <div class="panel" id="topSlots"></div>
+        </main> 
+       
     </body>
 </html>
