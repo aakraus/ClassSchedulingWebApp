@@ -118,7 +118,7 @@ function renderTop5(timeAxis, days, matrix) {
         <h3>Top 5 suggested slots</h3>
         <ol>
             ${scored.slice(0, 5).map(s =>
-                `<li>${s.day} ${labelTime(s.time)} — score ${s.score}</li>`
+                `<li>${s.day} ${timeLabel(s.time)} — score ${s.score}</li>`
             ).join('')}
         </ol>
     `;
