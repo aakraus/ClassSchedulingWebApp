@@ -1,5 +1,5 @@
 export function aggregate(state) {
-    const { rows, bucketSize, days, weight, timeWindow } = state;
+    const { rows, bucketSize, days, weight, timeWindow, dept} = state;
     const [minT, maxT] = timeWindow;
 
     // build bucket start times
@@ -38,7 +38,7 @@ export function aggregate(state) {
             const slotStart = timeAxis[i];
             const slotEnd = slotStart + bucketSize;
 
-            const overlaps = Math.max(slotStart, r.start) < Math.min(slotEndEnd, r.end);
+            const overlaps = Math.max(slotStart, r.start) < Math.min(slotEnd, r.end);
 
             if (overlaps) {
                 matrix[di][i] += (weight === 'enrolled' ? (r.enrolled || 0) : 1);
