@@ -41,7 +41,7 @@ export async function loadCSV(text) {
 
     if (!mtgs.length) {
       // inform user of potential CSV formatting error to fix if needed
-      skipped.push('Row ${i + 1}: unable to parse Day/Time/Location -> "${r["Day/Time/Location"] ?? ""}"');
+      skipped.push(`Row ${i + 1}: unable to parse Day/Time/Location -> "${r["Day/Time/Location"] ?? ""}"`);
       continue;
     }
 
