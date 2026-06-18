@@ -16,7 +16,7 @@ export function parseMeetings(cell) {
 
   // finds every meeting that matches regex pattern, pushes object to meetings array
   while ((m = re.exec(s)) !== null) {
-    const days = m[1].split(/\s+/).map(normDay).filter(Boolean);
+    const days = m[1].split(/\s+/).map(normalizeDay).filter(Boolean);
     const start_time = m[2], end_time = m[3], loc = (m[4]?.trim() || null);
     meetings.push({ days, start_time, end_time, location: loc });
     if (loc) lastLoc = loc;
@@ -37,7 +37,7 @@ export async function loadCSV(text) {
   for (let i = 0; i < rows.length; i++) {
     const r = rows[i];
 
-    const mtgs = parseAllMeetings(r["Day/Time/Location"]); // parse values for day, time, and location contained in chunks
+    const mtgs = parseMeetings(r["Day/Time/Location"]); // parse values for day, time, and location contained in chunks
 
     if (!mtgs.length) {
       // inform user of potential CSV formatting error to fix if needed
