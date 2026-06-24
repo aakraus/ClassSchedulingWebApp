@@ -20,7 +20,7 @@ export function renderAll({ timeAxis, days, matrix }, state) {
     // export function for visualization rendering
     renderBar(timeAxis, days, matrix);
     renderHeatmap(timeAxis, days, matrix);
-    renderTop5(timeAxis, days, matrix);
+    renderTop5(timeAxis, days, matrix, state);
 }
 
 function renderBar(timeAxis, days, matrix, state) {
@@ -101,12 +101,19 @@ function renderHeatmap(timeAxis, days, matrix) {
         .style('font-size','11px');
 }
 
-function renderTop5(timeAxis, days, matrix) {
+function renderTop5(timeAxis, days, matrix, state) {
     // build list with scores
+    const { bucketSize } = state;
     const scored = [];
+
     days.forEach((d, di) => {
         timeAxis.forEach((t, ti) => {
-            scored.push({ day: d, time: t, score: matrix[di][ti] });
+            const endT = t + bucketSize;
+
+            // filter out unwanted times (<= 8am, >= 10pm)
+            if (t > 480 && endT < 1320 ) {
+                scored.push({ day: d, start: t, end: endT, score: matrix[di][ti] });
+            }
         });
     });
 
@@ -118,7 +125,7 @@ function renderTop5(timeAxis, days, matrix) {
         <h3>Top 5 suggested slots</h3>
         <ol>
             ${scored.slice(0, 5).map(s =>
-                `<li>${s.day} ${timeLabel(s.time)} — score ${s.score}</li>`
+                `<li>${s.day} ${timeLabel(s.time)} — ${timeLabel(s.end)} - score ${s.score}</li>`
             ).join('')}
         </ol>
     `;
