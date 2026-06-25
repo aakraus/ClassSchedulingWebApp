@@ -59,7 +59,7 @@ h1 {
 }
 
 /* each control is a small card */
-.controls label {
+.controls .control-card {
   display: grid;
   gap: 6px;
   padding: 10px 12px;
@@ -70,9 +70,35 @@ h1 {
 }
 
 /* label text */
-.controls label > span {
+.controls .control-card > span {
   font-size: 13px;
   color: var(--muted);
+  font-weight: 600;
+}
+
+/* checkbox styling */
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 140px;
+  overflow-y: auto;
+  padding-right: 5px;
+}
+
+.checkbox-group label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.checkbox-group input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  margin: 0;
+  cursor: pointer;
 }
 
 /* inputs */

@@ -18,10 +18,9 @@ export function aggregate(state) {
     );
 
     // apply department filter
-    const filtered =
-        dept === 'All'
+    const filtered = (!dept || dept.length === 0)
         ? rows
-        : rows.filter(r => r.dept === dept);
+        : rows.filter(r => dept.includes(r.dept));
 
     /* aggregation logic:
     for each meeting row

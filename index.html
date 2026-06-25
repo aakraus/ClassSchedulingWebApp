@@ -28,9 +28,9 @@
                 state.rows = parsedData.rows;
                 
                 // populate the list for department filtering
-                const deptList = document.getElementById('deptList');
-                if (deptList) {
-                    deptList.innerHTML = parsedData.depts.map(d => `<option value="${d}"></option>`).join('');
+                const deptGroup = document.getElementById('deptGroup');
+                if (deptGroup) {
+                    deptGroup.innerHTML = parsedData.depts.map(d => `<label><input type="checkbox" value="${d}"> ${d}</label>`).join('');
                 }
                 
                 rerender();
@@ -51,56 +51,61 @@
             <p class="sub">Upload a CSV with course sections to visualize conflict density.</p>
         </header>
         
-        <div class="controls">
-            <label>
-                <span>Upload CSV</span>
-                 <input id="file" type="file" accept=".csv" />
-            </label>
-            <label>
-                <span>Bucket Size (hour)</span>
-                <select id="bucket">
-                    <option value="60" selected>1 hour</option>
-                    <option value="90">1.5 Hours</option>
-                    <option value="120">2 Hours</option>
-                    <option value="120">2.5 Hours</option>
-                    <option value="180">3 Hours</option>
-                    <option value="240">4 Hours</option>
-                    <option value="300">5 Hours</option>
-                </select>
-            </label>
-            <label>
-                <span>Days</span>
-                <select id="days" multiple>
-                    <option value="Mon" selected>Monday</option>
-                    <option value="Tue" selected>Tuesday</option>
-                    <option value="Wed" selected>Wednesday</option>
-                    <option value="Thu" selected>Thursday</option>
-                    <option value="Fri" selected>Friday</option>
-                </select>
-            </label>
-            <label>
-                <span>Department</span>
-                <input id="department" type="text" list="deptList" placeholder="All" />
-                <datalist id="deptList"></datalist>
-            </label>
-            <label>
-                <span>Weight By</span>
-                <select id="weight">
-                    <option value="enrolled" selected>Enrollment</option>
-                    <option value="count">Class Count</option>
-                </select>
-            </label>
+    <div class="controls">
+        <div class="control-card">
+            <span>Upload CSV</span>
+            <input id="file" type="file" accept=".csv" />
+        </div>
+    
+        <div class="control-card">
+            <span>Bucket Size (Duration)</span>
+            <select id="bucket">
+                <option value="60" selected>1 Hour</option>
+                <option value="90">1.5 Hours</option>
+                <option value="120">2 Hours</option>
+                <option value="150">2.5 Hours</option>
+                <option value="180">3 Hours</option>
+                <option value="240">4 Hours</option>
+                <option value="300">5 Hours</option>
+            </select>
         </div>
 
-        <main>
-            <div class="viz">
-                <canvas id="barChart"></canvas>
+        <div class="control-card">
+            <span>Days</span>
+            <div class="checkbox-group" id="daysGroup">
+                <label><input type="checkbox" value="Mon" checked> Monday</label>
+                <label><input type="checkbox" value="Tue" checked> Tuesday</label>
+                <label><input type="checkbox" value="Wed" checked> Wednesday</label>
+                <label><input type="checkbox" value="Thu" checked> Thursday</label>
+                <label><input type="checkbox" value="Fri" checked> Friday</label>
             </div>
-            <div class="viz">
-                <svg id="heatmap" width="800" height="400"></svg>
+        </div>
+
+        <div class="control-card">
+            <span>Departments</span>
+            <div class="checkbox-group" id="deptGroup">
+                <em style="font-size:12px; color:gray;">Upload CSV to view</em>
             </div>
-            <div class="panel" id="topSlots"></div>
-        </main> 
+        </div>
+
+        <div class="control-card">
+            <span>Weight By</span>
+            <select id="weight">
+                <option value="enrolled" selected>Enrollment</option>
+                <option value="count">Class Count</option>
+            </select>
+        </div>
+    </div>
+
+    <main>
+        <div class="viz">
+            <canvas id="barChart"></canvas>
+        </div>
+        <div class="viz">
+            <svg id="heatmap" width="800" height="400"></svg>
+        </div>
+        <div class="panel" id="topSlots"></div>
+    </main> 
        
     </body>
 </html>
