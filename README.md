@@ -5,7 +5,7 @@ A lightweight web app that accepts **user-uploaded CSVs** containing 300+ course
 **Tech:** JavaScript, D3.js, Chart.js
 
 ## Features
-- CSV upload → robust parsing of multi-day/meeting strings (e.g., “Tue …; Thu …”).
+- Upload a CSV for parsing of multi-day/meeting strings (e.g., “Tue …; Thu …”).
 - Time-bucket aggregation with **count** or **enrolled** weighting.
 - D3 **heatmap** + Chart.js **bar chart** visualizations.
 - Filters: day(s), department, bucket size, weighting.
