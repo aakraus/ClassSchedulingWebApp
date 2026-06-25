@@ -92,6 +92,7 @@ h1 {
   gap: 8px;
   font-size: 14px;
   cursor: pointer;
+  width: max-content;
 }
 
 .checkbox-group input[type="checkbox"] {
