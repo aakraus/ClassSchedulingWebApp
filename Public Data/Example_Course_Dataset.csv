@@ -1,0 +1,341 @@
+c.Index,Year/Term,Academic Session,Event ID,Event Long Name,Event Sub Type,Section,Campus,College,Department,Program,Instructors Teaching,Section Enroll. Status (Enr),Day/Time/Location,Credits,Start Date,End Date,Enrollment,Max Enrollment,Open Seats
+1,Fall 2025,010TRAD,ACCT 205,Financial Accounting for Decision-Making,LECT,F1,Burbank,BUS,ACCT,UNDERG,Dr. Dakota Jones,Open (Enrollment > 0),Tuesday Thursday from 14:45-16:00 in BB BB202,3,9/2/25,12/20/25,5,24.0,19.0
+2,Fall 2025,010TRAD,ACCT 206,Managerial Accountng for Decision-Making,LECT,F1,Burbank,BUS,ACCT,UNDERG,Dr. Harper Davis,Open (Enrollment > 0),Monday Wednesday from 16:15-17:30 in BB BB202,3,9/2/25,12/20/25,4,20.0,16.0
+3,Fall 2025,010TRAD,ARCH 101,Studio One,STU,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Jamie Johnson,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in AB AB107,6,9/2/25,12/20/25,59,64.0,5.0
+4,Fall 2025,010TRAD,ARCH 122,Build One: Intro to Materials & Methods,LECT,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Parker Brown,Open (Enrollment > 0),Tue Fri from 9:00-11:30 in WH WH130,3,9/2/25,12/20/25,2,12.0,10.0
+5,Fall 2025,010TRAD,ARCH 201,Studio Three,STU,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Morgan Miller,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in AB AB103,6,9/2/25,12/20/25,61,66.0,5.0
+6,Fall 2025,010TRAD,ARCH 241,Criticism One: World Arch & Urbanism 1,LECT,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Johnson,Closed (Enrollment > 0),Tuesday Thursday from 9:00-10:15 in NB NB100,3,9/2/25,12/20/25,24,24.0,0.0
+7,Fall 2025,010TRAD,ARCH 241,Criticism One: World Arch & Urbanism 1,LECT,F2,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Johnson,Open (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in NB NB100,3,9/2/25,12/20/25,22,24.0,2.0
+8,Fall 2025,010TRAD,ARCH 241,Criticism One: World Arch & Urbanism 1,LECT,OS1,Burbank,ARCH,ARCH,UNDERG,Dr. Taylor Garcia,Closed (Enrollment > 0),Monday Wednesday from 10:30-11:45,3,9/2/25,12/20/25,24,24.0,0.0
+9,Fall 2025,010TRAD,ARCH 262,Professional Practice 1,LECT,HY1,Burbank,ARCH,ARCH,UNDERG,Dr. Quinn Wilson,Open (Enrollment > 0),Monday Wednesday from 17:40-18:55 in BB BB210,3,9/2/25,12/20/25,30,35.0,5.0
+10,Fall 2025,010TRAD,ARCH 262,Professional Practice 1,LECT,HY2,Burbank,ARCH,ARCH,UNDERG,Dr. Quinn Wilson,Closed (Enrollment > 0),Monday Wednesday from 19:00-20:15 in BB BB210,3,9/2/25,12/20/25,35,35.0,0.0
+11,Fall 2025,010TRAD,ARCH 301,Studio Five,STU,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Reese Jones,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in NB NB104,6,9/2/25,12/20/25,82,84.0,2.0
+12,Fall 2025,010TRAD,ARCH 321,Build Two: Introduction to Structures,LECT,HY1,Burbank,ARCH,ARCH,UNDERG,Dr. Rowan Taylor,Open (Enrollment > 0),Monday Wednesday from 17:40-18:55 in BB BB101,3,9/2/25,12/20/25,79,80.0,1.0
+13,Fall 2025,010TRAD,ARCH 321,Build Two: Introduction to Structures,LECT,HY2,Burbank,ARCH,ARCH,UNDERG,Dr. Peyton Davis,Open (Enrollment > 0),Monday Wednesday from 16:15-17:30 in BB BB209,3,9/2/25,12/20/25,11,30.0,19.0
+14,Fall 2025,010TRAD,ARCH 341,Criticism Three: Arch Theory,LECT,HY1,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Jackson,Open (Enrollment > 0),Monday Wednesday from 10:30-11:45 in MH MH111,3,9/2/25,12/20/25,23,24.0,1.0
+15,Fall 2025,010TRAD,ARCH 341,Criticism Three: Arch Theory,LECT,HY2,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Jackson,Closed (Enrollment > 0),Monday Wednesday from 13:15-14:30 in MH MH111,3,9/2/25,12/20/25,25,24.0,-1.0
+16,Fall 2025,010TRAD,ARCH 341,Criticism Three: Arch Theory,LECT,HY3,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Jackson,Open (Enrollment > 0),Monday Wednesday from 9:00-10:15 in MH MH111,3,9/2/25,12/20/25,22,24.0,2.0
+17,Fall 2025,010TRAD,ARCH 341,Criticism Three: Arch Theory,LECT,OS1,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Jackson,Closed (Enrollment > 0),Monday from 19:00-21:30,3,9/2/25,12/20/25,25,24.0,-1.0
+18,Fall 2025,010TRAD,ARCH 342,Criticism Four: Contemporary Issues,LECT,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Martin,Open (Enrollment > 0),Thursday from 13:15-15:45 in BB BB207,3,9/2/25,12/20/25,9,18.0,9.0
+19,Fall 2025,010TRAD,ARCH 342,Criticism Four: Contemporary Issues,LECT,F2,Burbank,ARCH,ARCH,UNDERG,Dr. Reese Moore,Open (Enrollment > 0),Wednesday from 13:15-15:45 in WH WH130,3,9/2/25,12/20/25,6,18.0,12.0
+20,Fall 2025,010TRAD,ARCH 342,Criticism Four: Contemporary Issues,LECT,F3,Burbank,ARCH,ARCH,UNDERG,Dr. Harper Garcia,Open (Enrollment > 0),Wednesday from 9:00-11:30 in NB NB100,3,9/2/25,12/20/25,8,12.0,4.0
+21,Fall 2025,010TRAD,ARCH 342,Criticism Four: Contemporary Issues,LECT,HY1,Burbank,ARCH,ARCH,UNDERG,Dr. Alex Moore,Cancel,Monday from 19:00-21:30,3,9/2/25,12/20/25,0,14.0,14.0
+22,Fall 2025,010TRAD,ARCH 401,Studio Seven,STU,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Logan Jones,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS107,6,9/2/25,12/20/25,70,80.0,10.0
+23,Fall 2025,010TRAD,ARCH 421,Build Four: Intro to Systems Integration,LECT,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Logan Jones,Open (Enrollment > 0),Friday from 9:00-11:30 in BB BB101,3,9/2/25,12/20/25,69,80.0,11.0
+24,Fall 2025,010TRAD,ARCH 423,Build Six: Adv Materials and Methods,LECT,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Dakota Lopez,Open (Enrollment > 0),Wednesday from 13:15-15:45 in NB NB100,3,9/2/25,12/20/25,23,24.0,1.0
+25,Fall 2025,010TRAD,ARCH 423,Build Six: Adv Materials and Methods,LECT,F2,Burbank,ARCH,ARCH,UNDERG,Dr. Dakota Miller,Open (Enrollment > 0),Monday from 13:15-15:45 in NB NB100,3,9/2/25,12/20/25,17,24.0,7.0
+26,Fall 2025,010TRAD,ARCH 423,Build Six: Adv Materials and Methods,LECT,F3,Burbank,ARCH,ARCH,UNDERG,Dr. Skyler Hernandez,Open (Enrollment > 0),Thursday from 13:15-15:45 in NB NB100,3,9/2/25,12/20/25,24,26.0,2.0
+27,Fall 2025,010TRAD,ARCH 423,Build Six: Adv Materials and Methods,LECT,F4,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Martin,Open (Enrollment > 0),Thursday from 16:15-18:45 in BB BB210,3,9/2/25,12/20/25,22,27.0,5.0
+28,Fall 2025,010TRAD,ARCH 430,Studio Nine,STU,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Skyler Moore,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS110,6,9/2/25,12/20/25,7,12.0,5.0
+29,Fall 2025,010TRAD,ARCH 430,Studio Nine,STU,F2,Burbank,ARCH,ARCH,UNDERG,Dr. Parker Brown,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS210,6,9/2/25,12/20/25,7,16.0,9.0
+30,Fall 2025,010TRAD,ARCH 430,Studio Nine,STU,F3,Burbank,ARCH,ARCH,UNDERG,Dr. Harper Lopez,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS209,6,9/2/25,12/20/25,13,16.0,3.0
+31,Fall 2025,010TRAD,ARCH 430,Studio Nine,STU,F4,Burbank,ARCH,ARCH,UNDERG,Dr. Avery Taylor,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS208,6,9/2/25,12/20/25,9,12.0,3.0
+32,Fall 2025,010TRAD,ARCH 441,Criticism Five: Degree Project Research,LECT,F3,Burbank,ARCH,ARCH,UNDERG,Dr. Logan Davis,Cancel,Tuesday Thursday from 10:30-11:45 in BB BB206,3,9/2/25,12/20/25,0,16.0,16.0
+33,Fall 2025,010TRAD,ARCH 441,Criticism Five: Degree Project Research,LECT,HY1,Burbank,ARCH,ARCH,UNDERG,Dr. Skyler Moore,Open (Enrollment > 0),"Tuesday from 10:30-11:45 in BB BB207(Other day/time/location(s) for this section: 
+Thursday from 10:30-11:45)",3,9/2/25,12/20/25,12,16.0,4.0
+34,Fall 2025,010TRAD,ARCH 441,Criticism Five: Degree Project Research,LECT,HY2,Burbank,ARCH,ARCH,UNDERG,Dr. Drew Martin,Open (Enrollment > 0),"Tuesday from 10:30-11:45 in BB BB204(Other day/time/location(s) for this section: 
+Thursday from 10:30-11:45)",3,9/2/25,12/20/25,12,16.0,4.0
+35,Fall 2025,010TRAD,ARCH 441,Criticism Five: Degree Project Research,LECT,HY3,Burbank,ARCH,ARCH,UNDERG,Dr. Logan Davis,Open (Enrollment > 0),"Tuesday from 10:30-11:45 in BB BB206(Other day/time/location(s) for this section: 
+Thursday from 10:30-11:45)",3,9/2/25,12/20/25,13,16.0,3.0
+36,Fall 2025,010TRAD,ARCH 441,Criticism Five: Degree Project Research,LECT,HY4,Burbank,ARCH,ARCH,UNDERG,Dr. Dakota Miller,Open (Enrollment > 0),Tuesday from 10:30-11:45 in BB BB205,3,9/2/25,12/20/25,13,16.0,3.0
+37,Fall 2025,010TRAD,ARCH 441,Criticism Five: Degree Project Research,LECT,HY5,Burbank,ARCH,ARCH,UNDERG,Dr. Drew Martinez,Open (Enrollment > 0),"Tuesday from 10:30-11:45 in BB BB102(Other day/time/location(s) for this section: 
+Thursday from 10:30-11:45)",3,9/2/25,12/20/25,13,16.0,3.0
+38,Fall 2025,010TRAD,ARCH 441,Criticism Five: Degree Project Research,LECT,HY6,Burbank,ARCH,ARCH,UNDERG,Dr. Reese Jackson,Open (Enrollment > 0),"Tuesday from 10:30-11:45 in DC DC206(Other day/time/location(s) for this section: 
+Thursday from 10:30-11:45)",3,9/2/25,12/20/25,8,16.0,8.0
+39,Fall 2025,010TRAD,ARCH 441,Criticism Five: Degree Project Research,LECT,HY7,Burbank,ARCH,ARCH,UNDERG,Dr. Skyler Martin,Open (Enrollment > 0),"Tuesday from 10:30-11:45 in MH MH111(Other day/time/location(s) for this section: 
+Thursday from 10:30-11:45)",3,9/2/25,12/20/25,13,16.0,3.0
+40,Fall 2025,010TRAD,ARCH 503,Graduate Studio 3,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Blake Martin,Open (Enrollment > 0),Tue Fri from 13:15-18:15 in AB AB108,6,9/2/25,12/20/25,6,14.0,8.0
+41,Fall 2025,010TRAD,ARCH 523,Building 3: Advanced Structures,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Drew Smith,Open (Enrollment > 0),Monday Wednesday from 13:15-14:30 in DC DC209,3,9/2/25,12/20/25,8,16.0,8.0
+42,Fall 2025,010TRAD,ARCH 556X,Criticism 3: Arictecture History,DIRS,CS1,Burbank,ARCH,ARCH,GRAD,Dr. Cameron Martinez,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+43,Fall 2025,010TRAD,ARCH 633,Contemporary Issues,SEM,F1,Burbank,ARCH,ARCH,GRAD,Dr. Casey Martin,Open (Enrollment > 0),Thursday from 13:15-15:45 in BB BB207,3,9/2/25,12/20/25,1,6.0,5.0
+44,Fall 2025,010TRAD,ARCH 633,Contemporary Issues,SEM,F2,Burbank,ARCH,ARCH,GRAD,Dr. Reese Moore,Open (Enrollment > 0),Wednesday from 13:15-15:45 in WH WH130,3,9/2/25,12/20/25,2,6.0,4.0
+45,Fall 2025,010TRAD,ARCH 633,Contemporary Issues,SEM,F3,Burbank,ARCH,ARCH,GRAD,Dr. Harper Garcia,Open (Enrollment > 0),Wednesday from 9:00-11:30 in NB NB100,3,9/2/25,12/20/25,1,6.0,5.0
+46,Fall 2025,010TRAD,ARCH 633,Contemporary Issues,SEM,HY1,Burbank,ARCH,ARCH,GRAD,Dr. Alex Moore,Cancel,Monday from 19:00-21:30,3,9/2/25,12/20/25,0,6.0,6.0
+47,Fall 2025,010TRAD,ARCH 648,Criticism 4: Arch Research Salon,LECT,F1,Burbank,ARCH,ARCH,GRAD,Dr. Jordan Jones,Closed (Enrollment > 0),Tuesday Friday from 9:00-10:15 in BB BB207,3,9/2/25,12/20/25,17,16.0,-1.0
+48,Fall 2025,010TRAD,ARCH 691,Graduate Studio 5: Focus/Topic,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Skyler Moore,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS110,6,9/2/25,12/20/25,8,4.0,-4.0
+49,Fall 2025,010TRAD,ARCH 691,Graduate Studio 5: Focus/Topic,STU,F2,Burbank,ARCH,ARCH,GRAD,Dr. Parker Brown,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS210,6,9/2/25,12/20/25,2,4.0,2.0
+50,Fall 2025,010TRAD,ARCH 691,Graduate Studio 5: Focus/Topic,STU,F3,Burbank,ARCH,ARCH,GRAD,Dr. Harper Lopez,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS209,6,9/2/25,12/20/25,3,4.0,1.0
+51,Fall 2025,010TRAD,ARCH 691,Graduate Studio 5: Focus/Topic,STU,F4,Burbank,ARCH,ARCH,GRAD,Dr. Avery Taylor,Closed (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS208,6,9/2/25,12/20/25,4,4.0,0.0
+52,Fall 2025,010TRAD,ARTH 205,History of Contemporary Art,LECT,F1,Burbank,LIBART,ARTH,UNDERG,Dr. Dakota Williams,Open (Enrollment > 0),Monday Wednesday from 10:30-11:45 in CH CH207,3,9/2/25,12/20/25,12,20.0,8.0
+53,Fall 2025,010TRAD,ARTH 205,History of Contemporary Art,LECT,F2,Burbank,LIBART,ARTH,UNDERG,Dr. Dakota Williams,Open (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in CH CH207,3,9/2/25,12/20/25,7,20.0,13.0
+54,Fall 2025,010TRAD,ARTH 332,History of Photography,LECT,F1,Burbank,LIBART,ARTH,UNDERG,Dr. Rowan Wilson,Open (Enrollment > 0),Wednesday from 19:00-21:30 in CH CH207,3,9/2/25,12/20/25,13,20.0,7.0
+55,Fall 2025,010TRAD,ARTH 340,"History of Zombie Films, Art, Literature",LECT,F1,Burbank,LIBART,ARTH,UNDERG,Dr. Dakota Williams,Closed (Enrollment > 0),Monday Wednesday from 13:15-14:30 in BB BB209,3,9/2/25,12/20/25,20,20.0,0.0
+56,Fall 2025,010TRAD,ARTH 340,"History of Zombie Films, Art, Literature",LECT,F2,Burbank,LIBART,ARTH,UNDERG,Dr. Dakota Williams,Closed (Enrollment > 0),Monday Wednesday from 13:15-14:30 in BB BB209,3,9/2/25,12/20/25,20,20.0,0.0
+57,Fall 2025,010TRAD,ARTH 5990,History of Photography,INDS,F1,Burbank,LIBART,ARTH,GRAD,Dr. Rowan Wilson,Closed (Enrollment > 0),Wednesday from 19:00-21:30 in CH CH207,3,9/2/25,12/20/25,1,1.0,0.0
+58,Fall 2025,010TRAD,AVFX 100,Animation Principles 1,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Cameron Miller,Closed (Enrollment > 0),Monday Wednesday from 9:00-11:30 in MH MH205,3,9/2/25,12/20/25,20,20.0,0.0
+59,Fall 2025,010TRAD,AVFX 100,Animation Principles 1,STU,F2,Burbank,MCD,AVFX,UNDERG,Dr. Cameron Miller,Open (Enrollment > 0),Monday Wednesday from 13:15-15:45 in MH MH205,3,9/2/25,12/20/25,5,18.0,13.0
+60,Fall 2025,010TRAD,AVFX 103,Industry Insiders,LECT,F1,Burbank,MCD,AVFX,UNDERG,Dr. Dakota Garcia,Open (Enrollment > 0),Thursday from 19:00-19:50 in BB BB210,1,9/2/25,12/20/25,25,48.0,23.0
+61,Fall 2025,010TRAD,AVFX 246,History of Animation & Visual Effects,LECT,F1,Burbank,MCD,ANIM,UNDERG,Dr. Cameron Hernandez,Open (Enrollment > 0),Friday from 9:00-11:30 in EM EM101,3,9/2/25,12/20/25,27,48.0,21.0
+62,Fall 2025,010TRAD,AVFX 262,3D Animation 1,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Skyler Martinez,Closed (Enrollment > 0),Tuesday Thursday from 13:15-15:45 in DC DC202,3,9/2/25,12/20/25,18,18.0,0.0
+63,Fall 2025,010TRAD,AVFX 263,Introduction to Stop Motion,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Jordan Moore,Closed (Enrollment > 0),Monday Wednesday from 13:15-15:45 in DC DC104,3,9/2/25,12/20/25,18,16.0,-2.0
+64,Fall 2025,010TRAD,AVFX 310,Production Design,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Jordan Moore,Open (Enrollment > 0),Monday Wednesday from 16:15-18:45 in DC DC205,3,9/2/25,12/20/25,18,20.0,2.0
+65,Fall 2025,010TRAD,AVFX 311,Storyboarding 2,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Quinn Taylor,Cancel,Monday Wednesday from 19:00-21:30 in DC DC105,3,9/2/25,12/20/25,0,20.0,20.0
+66,Fall 2025,010TRAD,AVFX 320,Figure and Animation Drawing,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Casey Martinez,Open (Enrollment > 0),Tuesday Thursday from 13:15-15:45 in DC DC116,3,9/2/25,12/20/25,15,18.0,3.0
+67,Fall 2025,010TRAD,AVFX 350,Junior Thesis,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Rowan Thomas,Open (Enrollment > 0),Tuesday Thursday from 16:15-18:45 in DC DC205,3,9/2/25,12/20/25,14,20.0,6.0
+68,Fall 2025,010TRAD,AVFX 367,3D Animation 3,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Skyler Martinez,Cancel,Monday Wednesday from 16:15-18:45 in DC DC202,3,9/2/25,12/20/25,0,18.0,18.0
+69,Fall 2025,010TRAD,AVFX 485,Animation Thesis 2,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Skyler Martinez,Open (Enrollment > 0),Tuesday Thursday from 16:15-18:45 in AN AN111,3,9/2/25,12/20/25,15,20.0,5.0
+70,Fall 2025,010TRAD,AVFX 495,Portfolio Production,STU,F1,Burbank,MCD,AVFX,UNDERG,Dr. Jordan Moore,Open (Enrollment > 0),Monday Wednesday from 9:00-11:30 in AN AN111,3,9/2/25,12/20/25,16,20.0,4.0
+71,Fall 2025,010TRAD,AVFX 2709,History of Disney Animation,LECT,F1,Burbank,MCD,AVFX,UNDERG,Dr. Cameron Hernandez,Open (Enrollment > 0),Friday from 13:15-15:45 in EM EM101,3,9/2/25,12/20/25,27,48.0,21.0
+72,Fall 2025,010TRAD,AVFX 5990,History of Disney Animation,INDS,F1,Burbank,MCD,AVFX,GRAD,Dr. Cameron Hernandez,Closed (Enrollment > 0),Friday from 13:15-15:45 in EM EM101,3,9/2/25,12/20/25,1,0.0,-1.0
+73,Fall 2025,010TRAD,BCIS 100X,Foundations of Information Systems,DIRS,CS1,Burbank,BUS,COMPIN,UNDERG,Dr. Riley Anderson,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+74,Fall 2025,010TRAD,BCIS 150X,Infrastructure,DIRS,CS1,Burbank,BUS,COMPIN,UNDERG,Dr. Riley Anderson,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+75,Fall 2025,010TRAD,BCIS 152X,IT Ethics and the Law,DIRS,CS1,Burbank,BUS,COMPIN,UNDERG,Dr. Riley Anderson,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+76,Fall 2025,010TRAD,BCIS 200X,Databases,DIRS,CS1,Burbank,BUS,COMPIN,UNDERG,Dr. Riley Anderson,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+77,Fall 2025,010TRAD,BIOL 230,Biology,LAB,F1,Burbank,LIBART,BIOL,UNDERG,Dr. Skyler Thomas,Open (Enrollment > 0),Monday Wednesday from 16:15-18:45 in FC FC101,3,9/2/25,12/20/25,10,20.0,10.0
+78,Fall 2025,010TRAD,BIOL 230,Biology,LAB,F2,Burbank,LIBART,BIOL,UNDERG,Dr. Skyler Thomas,Cancel,Tuesday Thursday from 16:15-18:45 in FC FC101,3,9/2/25,12/20/25,0,20.0,20.0
+79,Fall 2025,010TRAD,BIOL 231,Human Biology,LAB,F1,Burbank,LIBART,BIOL,UNDERG,Dr. Drew Anderson,Open (Enrollment > 0),Tuesday Thursday from 16:15-18:45 in FC FC101,3,9/2/25,12/20/25,6,20.0,14.0
+80,Fall 2025,010TRAD,CORE 101,Computer Science I,LAB,F1,Burbank,LIBART,CORE,UNDERG,Dr. Reese Taylor,Open (Enrollment > 0),Monday Wednesday from 9:00-11:30 in DC DC205,3,9/2/25,12/20/25,12,15.0,3.0
+81,Fall 2025,010TRAD,CORE 201,Data Structures and Algorithms,LAB,ON1,Burbank,LIBART,CORE,UNDERG,Dr. Riley Anderson,Open (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,4,20.0,16.0
+82,Fall 2025,010TRAD,CORE 5990,Computer Science I,INDS,F1,Burbank,LIBART,CORE,UNDERG,Dr. Reese Taylor,Closed (Enrollment > 0),Monday Wednesday from 9:00-11:30 in DC DC205,3,9/2/25,12/20/25,1,1.0,0.0
+83,Fall 2025,010TRAD,CSDA 205,Windows-Based Application Development,LECT,F1,Burbank,LIBART,CSDA,UNDERG,Dr. Riley Anderson,Open (Enrollment > 0),Tuesday Thursday from 13:15-14:30 in BB BB201,3,9/2/25,12/20/25,2,10.0,8.0
+84,Fall 2025,010TRAD,CSDA 320,Advanced Data Structures and Algorithms,LECT,F1,Burbank,LIBART,CSDA,UNDERG,Dr. Riley Anderson,Open (Enrollment > 0),Tuesday Thursday from 14:45-16:00 in BB BB201,3,9/2/25,12/20/25,2,10.0,8.0
+85,Fall 2025,010TRAD,CSDA 400X,Advanced Database Development,DIRS,CS1,Burbank,LIBART,CSDA,UNDERG,Dr. Riley Anderson,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,2,1.0,-1.0
+86,Fall 2025,010TRAD,CSDA 415X,Machine Learning,DIRS,CS1,Burbank,LIBART,CSDA,UNDERG,Dr. Riley Anderson,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+87,Fall 2025,010TRAD,CSDC 301,History and Theory of Design Computation,LECT,ON1,Burbank,MCD,DESCOMP,UNDERG,Dr. Cameron Martinez,Open (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,11,15.0,4.0
+88,Fall 2025,010TRAD,CSDC 440X,Design Computation Studio 3,DIRS,CS1,Burbank,ARCH,DESCOMP,UNDERG,Dr. Reese Taylor,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+89,Fall 2025,010TRAD,CSDC 5990,History and theory of Design Computation,INDS,ON1,Burbank,ARCH,DESCOMP,GRAD,Dr. Cameron Martinez,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,3,1.0,-2.0
+90,Fall 2025,010TRAD,CSMA 100,ACS Lecture Series,LECT,F1,Burbank,MCD,CSMA,UNDERG,Dr. Jamie Davis,Open (Enrollment > 0),Wednesday from 19:00-20:15 in MH MH111,1,9/2/25,12/20/25,5,16.0,11.0
+91,Fall 2025,010TRAD,CSMA 202,Media Programming 1,STU,F1,Burbank,MCD,CSMA,UNDERG,Dr. Reese Taylor,Open (Enrollment > 0),Monday Wednesday from 13:15-15:45 in MH MH206,3,9/2/25,12/20/25,3,16.0,13.0
+92,Fall 2025,010TRAD,CSMA 302,Media Programming 2,STU,F1,Burbank,MCD,CSMA,UNDERG,Dr. Casey Taylor,Open (Enrollment > 0),Thursday from 13:15-18:15 in DC DC201,3,9/2/25,12/20/25,6,8.0,2.0
+93,Fall 2025,010TRAD,CSMA 401X,Thesis I,DIRS,CS1,Burbank,MCD,CSMA,UNDERG,Dr. Reese Taylor,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+94,Fall 2025,010TRAD,DCMG 101,Design Studio 1,STU,F1,Burbank,ARCH,CONMG,UNDERG,Dr. Jamie Johnson,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in AB AB107,6,9/2/25,12/20/25,6,8.0,2.0
+95,Fall 2025,010TRAD,DCMG 105,Theory of Structures,LECT,HY1,Burbank,ARCH,CONMG,UNDERG,Dr. Alex Moore,Open (Enrollment > 0),Thursday from 16:15-18:45 in BB BB207,3,9/2/25,12/20/25,13,15.0,2.0
+96,Fall 2025,010TRAD,DCMG 301,Design Studio 3,STU,F1,Burbank,ARCH,CONMG,UNDERG,Dr. Harper Moore,Cancel,Tuesday Friday from 13:15-18:15,6,9/2/25,12/20/25,0,4.0,4.0
+97,Fall 2025,010TRAD,DCMG 304,Energy:Mechanical Systems,LECT,HY1,Burbank,ARCH,CONMG,UNDERG,Dr. Harper Moore,Open (Enrollment > 0),Thursday from 13:15-15:45 in WH WH130,3,9/2/25,12/20/25,12,20.0,8.0
+98,Fall 2025,010TRAD,DCMG 305,History and Theory of the Built Environm,LECT,ON1,Burbank,ARCH,CONMG,UNDERG,Dr. Cameron Martinez,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,10,10.0,0.0
+99,Fall 2025,010TRAD,DCMG 305,History and Theory of the Built Environm,LECT,ON2,Burbank,ARCH,CONMG,UNDERG,Dr. Cameron Martinez,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,10,10.0,0.0
+100,Fall 2025,010TRAD,ECON 203,Macroeconomics,LECT,ON1,Burbank,LIBART,ECONOMICS,UNDERG,Dr. Jamie Johnson,Open (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,19,20.0,1.0
+101,Fall 2025,010TRAD,ENVT 220,Environmental Studies,LECT,F1,Burbank,LIBART,ENVT,UNDERG,Dr. Drew Anderson,Open (Enrollment > 0),Monday Wednesday from 16:15-17:30 in CH CH207,3,9/2/25,12/20/25,19,20.0,1.0
+102,Fall 2025,010TRAD,ENVT 220,Environmental Studies,LECT,F2,Burbank,LIBART,ENVT,UNDERG,Dr. Avery Miller,Open (Enrollment > 0),Tuesday Thursday from 16:15-17:30 in BB BB208,3,9/2/25,12/20/25,11,20.0,9.0
+103,Fall 2025,010TRAD,ENVT 220,Environmental Studies,LECT,F3,Burbank,LIBART,ENVT,UNDERG,Dr. Logan Williams,Open (Enrollment > 0),Monday Wednesday from 9:00-10:15 in FC FC101,3,9/2/25,12/20/25,9,20.0,11.0
+104,Fall 2025,010TRAD,ENVT 220,Environmental Studies,LECT,F4,Burbank,LIBART,ENVT,UNDERG,Dr. Logan Williams,Open (Enrollment > 0),Monday Wednesday from 10:30-11:45 in FC FC101,3,9/2/25,12/20/25,16,20.0,4.0
+105,Fall 2025,010TRAD,FDES 100,Sewing Machine Technology,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Logan Hernandez,Open (Enrollment > 0),Wednesday from 19:00-20:40 in CH CH104,1,9/2/25,12/20/25,13,16.0,3.0
+106,Fall 2025,010TRAD,FDES 105,Digital Fashion Design 1,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Jordan Miller,Open (Enrollment > 0),Tuesday Thursday from 9:00-11:30 in CH CH105,3,9/2/25,12/20/25,13,18.0,5.0
+107,Fall 2025,010TRAD,FDES 125,Technical Studio 1,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Jordan Brown,Open (Enrollment > 0),Monday Wednesday from 9:00-11:30 in CH CH104,3,9/2/25,12/20/25,13,16.0,3.0
+108,Fall 2025,010TRAD,FDES 202,Digital Fashon Design 2,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Logan Rodriguez,Open (Enrollment > 0),Tuesday Thursday from 9:00-11:30 in DC DC201,3,9/2/25,12/20/25,8,18.0,10.0
+109,Fall 2025,010TRAD,FDES 220,Design and Illustration 2,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Casey Williams,Open (Enrollment > 0),Tuesday Thursday from 16:15-18:45 in MH MH206,3,9/2/25,12/20/25,11,16.0,5.0
+110,Fall 2025,010TRAD,FDES 226,Advanced Technical Studio,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Jordan Brown,Open (Enrollment > 0),Monday Wednesday from 16:15-18:45 in CH CH204,3,9/2/25,12/20/25,10,12.0,2.0
+111,Fall 2025,010TRAD,FDES 260,History of Fashion I,LECT,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Logan Brown,Open (Enrollment > 0),Friday from 13:15-15:45 in CH CH207,3,9/2/25,12/20/25,10,25.0,15.0
+112,Fall 2025,010TRAD,FDES 310,Design and Illustration 3,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Cameron Martinez,Open (Enrollment > 0),Wednesday from 13:15-18:15 in BB BB203,3,9/2/25,12/20/25,9,24.0,15.0
+113,Fall 2025,010TRAD,FDES 320,Research and Methodology,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Harper Brown,Open (Enrollment > 0),Monday from 13:15-16:35 in CH CH105,2,9/2/25,12/20/25,13,16.0,3.0
+114,Fall 2025,010TRAD,FDES 330,Textile Arts,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Reese Lopez,Open (Enrollment > 0),Tuesday Thursday from 13:15-15:45 in CH CH200,3,9/2/25,12/20/25,11,12.0,1.0
+115,Fall 2025,010TRAD,FDES 331,Advanced Draping and Tailoring,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Skyler Smith,Open (Enrollment > 0),Tuesday Thursday from 9:00-11:30 in CH CH205,3,9/2/25,12/20/25,10,16.0,6.0
+116,Fall 2025,010TRAD,FDES 410,Senior Design,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Jordan Brown,Open (Enrollment > 0),Thursday from 13:15-16:35 in CH CH105,2,9/2/25,12/20/25,5,16.0,11.0
+117,Fall 2025,010TRAD,FDES 431,Senior Collection I,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Cameron Martinez,Open (Enrollment > 0),Tuesday Friday from 13:15-15:45 in CH CH103,3,9/2/25,12/20/25,5,16.0,11.0
+118,Fall 2025,010TRAD,FDES 2758,"History of Costume in Film, Anim and Gam",LECT,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Logan Brown,Cancel,Friday from 9:00-11:30,3,9/2/25,12/20/25,0,20.0,20.0
+119,Fall 2025,010TRAD,FDES 2760,Costume Design and Construction,STU,F1,Burbank,MCD,FASHDN,UNDERG,Dr. Cameron Martinez,Open (Enrollment > 0),Monday Wednesday from 9:00-11:30 in CH CH101,3,9/2/25,12/20/25,11,20.0,9.0
+120,Fall 2025,010TRAD,FILM 101,Film History 1,LAB,F1,Burbank,MCD,FILM,UNDERG,Dr. Taylor Jones,Open (Enrollment > 0),Tuesday Thursday from 16:15-18:45 in EM EM101,3,9/2/25,12/20/25,13,48.0,35.0
+121,Fall 2025,010TRAD,FILM 104,Introduction to Film Art & Style,LECT,F1,Burbank,MCD,FILM,UNDERG,Dr. Cameron Martin,Open (Enrollment > 0),Monday Wednesday from 13:15-14:30 in EM EM101,3,9/2/25,12/20/25,12,24.0,12.0
+122,Fall 2025,010TRAD,FILM 110,Film Production 1,STU,F1,Burbank,MCD,FILM,UNDERG,Dr. Morgan Martin,Cancel,Tuesday Thursday from 13:15-15:45,3,9/2/25,12/20/25,0,18.0,18.0
+123,Fall 2025,010TRAD,FILM 110,Film Production 1,STU,F2,Burbank,MCD,FILM,UNDERG,Dr. Morgan Martin,Open (Enrollment > 0),Tuesday Thursday from 9:00-11:30 in EM EM103,3,9/2/25,12/20/25,11,18.0,7.0
+124,Fall 2025,010TRAD,FILM 140,Sound,STU,F1,Burbank,MCD,FILM,UNDERG,Dr. Dakota Hernandez,Open (Enrollment > 0),Monday Wednesday from 13:15-15:45 in EM EM103,3,9/2/25,12/20/25,11,18.0,7.0
+125,Fall 2025,010TRAD,FILM 215,Directing,STU,F1,Burbank,MCD,FILM,UNDERG,Dr. Morgan Martin,Open (Enrollment > 0),Monday Wednesday from 9:00-11:30 in EM EM103,3,9/2/25,12/20/25,14,20.0,6.0
+126,Fall 2025,010TRAD,FILM 220,Editing,LECT,F1,Burbank,MCD,FILM,UNDERG,Dr. Peyton Jackson,Open (Enrollment > 0),Monday Wednesday from 9:00-10:15 in DC DC201,3,9/2/25,12/20/25,10,24.0,14.0
+127,Fall 2025,010TRAD,FILM 300,Advanced Screenwriting,LECT,F1,Burbank,MCD,FILM,UNDERG,Dr. Alex Miller,Open (Enrollment > 0),Monday Wednesday from 14:45-16:00 in DC DC208,3,9/2/25,12/20/25,17,20.0,3.0
+128,Fall 2025,010TRAD,FILM 302,Film Styles: Art & History,LECT,F1,Burbank,MCD,FILM,UNDERG,Dr. Casey Brown,Open (Enrollment > 0),Monday from 9:00-11:30 in EM EM101,3,9/2/25,12/20/25,17,24.0,7.0
+129,Fall 2025,010TRAD,FILM 302,Film Styles: Art & History,LECT,F2,Burbank,MCD,FILM,UNDERG,Dr. Casey Brown,Open (Enrollment > 0),Thursday from 13:15-15:45 in EM EM101,3,9/2/25,12/20/25,22,24.0,2.0
+130,Fall 2025,010TRAD,FILM 351,Career Development,LECT,OS1,Burbank,MCD,FILM,UNDERG,Dr. Casey Brown,Open (Enrollment > 0),Tuesday from 19:00-21:30 in BB BB202,3,9/2/25,12/20/25,14,20.0,6.0
+131,Fall 2025,010TRAD,FILM 400,Pitching,LECT,F1,Burbank,MCD,FILM,UNDERG,Dr. Taylor Jones,Open (Enrollment > 0),Thursday from 13:15-15:45 in CH CH207,3,9/2/25,12/20/25,7,20.0,13.0
+132,Fall 2025,010TRAD,FILM 402,Producing,LECT,F1,Burbank,MCD,FILM,UNDERG,Dr. Cameron Johnson,Open (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in EM EM101,3,9/2/25,12/20/25,19,20.0,1.0
+133,Fall 2025,010TRAD,FILM 420,Entertainment Law,LECT,F1,Burbank,MCD,FILM,UNDERG,Dr. Quinn Williams,Open (Enrollment > 0),Monday Wednesday from 13:15-14:30 in BB BB207,3,9/2/25,12/20/25,13,24.0,11.0
+134,Fall 2025,010TRAD,FILM 482,Thesis 1,STU,F1,Burbank,MCD,FILM,UNDERG,Dr. Cameron Johnson,Open (Enrollment > 0),Friday from 9:00-17:20 in EM EM103,5,9/2/25,12/20/25,13,18.0,5.0
+135,Fall 2025,010TRAD,FILM 490,Internship,INTN,F1,Burbank,MCD,FILM,UNDERG,Dr. Morgan Garcia,Closed (Enrollment > 0),Internship from 0:59-1:00,3,9/2/25,12/20/25,2,2.0,0.0
+136,Fall 2025,010TRAD,FILM 3731,Advanced Directing,LECT,F1,Burbank,MCD,FILM,UNDERG,Dr. Riley Wilson,Open (Enrollment > 0),Wednesday from 9:00-11:30 in EM EM101,3,9/2/25,12/20/25,8,18.0,10.0
+137,Fall 2025,010TRAD,FINA 360,Financial Management,LECT,F1,Burbank,BUS,FINA,UNDERG,Dr. Jordan Davis,Open (Enrollment > 0),Monday from 19:00-21:30 in BB BB203,3,9/2/25,12/20/25,13,30.0,17.0
+138,Fall 2025,010TRAD,FMRK 100,Fashion Fundamentals,LECT,F1,Burbank,BUS,FASHMK,UNDERG,Dr. Dakota Martinez,Open (Enrollment > 0),Thursday from 16:15-18:45 in BB BB102,3,9/2/25,12/20/25,9,20.0,11.0
+139,Fall 2025,010TRAD,FMRK 360,Fashion Culture and Society,LECT,F1,Burbank,BUS,FASHMK,UNDERG,Dr. Jamie Davis,Open (Enrollment > 0),Monday Wednesday from 14:45-16:00 in BB BB102,3,9/2/25,12/20/25,14,20.0,6.0
+140,Fall 2025,010TRAD,FMRK 490,Internship,INTN,F1,Burbank,BUS,FASHMK,UNDERG,Dr. Dakota Martinez,Closed (Enrollment > 0),Internship from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+141,Fall 2025,010TRAD,FOUN 101,Beginning Drawing,STU,F1,Burbank,MCD,FOUN,UNDERG,Dr. Parker Miller,Open (Enrollment > 0),Tuesday Thursday from 9:00-11:30 in DC DC101,3,9/2/25,12/20/25,17,18.0,1.0
+142,Fall 2025,010TRAD,FOUN 101,Beginning Drawing,STU,F2,Burbank,MCD,FOUN,UNDERG,Dr. Parker Miller,Open (Enrollment > 0),Tuesday Thursday from 13:15-15:45 in DC DC101,3,9/2/25,12/20/25,17,18.0,1.0
+143,Fall 2025,010TRAD,FOUN 102,Design and Composition,STU,F1,Burbank,MCD,FOUN,UNDERG,Dr. Morgan Miller,Open (Enrollment > 0),Tuesday Thursday from 9:00-11:30 in DC DC104,3,9/2/25,12/20/25,15,18.0,3.0
+144,Fall 2025,010TRAD,FOUN 102,Design and Composition,STU,F2,Burbank,MCD,FOUN,UNDERG,Dr. Morgan Miller,Closed (Enrollment > 0),Tuesday Thursday from 13:15-15:45 in DC DC104,3,9/2/25,12/20/25,18,18.0,0.0
+145,Fall 2025,010TRAD,FOUN 105,Introduction to Figure Drawing,STU,F1,Burbank,MCD,FOUN,UNDERG,Dr. Casey Martinez,Cancel,Tuesday Thursday from 9:00-11:30,3,9/2/25,12/20/25,0,18.0,18.0
+146,Fall 2025,010TRAD,FOUN 106,Color Theory and Interaction,STU,F1,Burbank,MCD,FOUN,UNDERG,Dr. Rowan Wilson,Closed (Enrollment > 0),Monday Wednesday from 13:15-15:45 in DC DC103,3,9/2/25,12/20/25,18,18.0,0.0
+147,Fall 2025,010TRAD,FOUN 107,Gesture Drawing,STU,F1,Burbank,MCD,FOUN,UNDERG,Dr. Avery Brown,Open (Enrollment > 0),Monday Wednesday from 16:15-18:45 in DC DC116,3,9/2/25,12/20/25,13,18.0,5.0
+148,Fall 2025,010TRAD,GAME 101,Game Design Fundamentals,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Cameron Hernandez,Open (Enrollment > 0),Tuesday Thursday from 13:15-15:45 in MH MH209,3,9/2/25,12/20/25,6,18.0,12.0
+149,Fall 2025,010TRAD,GAME 107,Game Design Practices,LECT,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Quinn Gonzalez,Open (Enrollment > 0),Friday from 13:15-15:45 in MH MH207,3,9/2/25,12/20/25,6,20.0,14.0
+150,Fall 2025,010TRAD,GAME 109,Game Art Practices,LECT,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Casey Taylor,Open (Enrollment > 0),Friday from 16:15-18:45 in MH MH207,3,9/2/25,12/20/25,9,20.0,11.0
+151,Fall 2025,010TRAD,GAME 140X,Environmental  Design & Modeling,DIRS,CS1,Burbank,MCD,GAME ART,UNDERG,Dr. Skyler Martinez,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,2,1.0,-1.0
+152,Fall 2025,010TRAD,GAME 201,Narrative Design Fundamentals,LECT,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Riley Taylor,Open (Enrollment > 0),"Friday from 13:15-15:45 in MH MH209(Other day/time/location(s) for this section: 
+Friday from 13:15-15:45 in MH MH209)",3,9/2/25,12/20/25,10,20.0,10.0
+153,Fall 2025,010TRAD,GAME 203,Sound Design Fundamentals,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Avery Hernandez,Open (Enrollment > 0),Tuesday from 16:15-21:15 in DC DC201,3,9/2/25,12/20/25,14,20.0,6.0
+154,Fall 2025,010TRAD,GAME 238X,Character Des&Modeling,DIRS,CS1,Burbank,,,,Dr. Skyler Martinez,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,2,2.0,0.0
+155,Fall 2025,010TRAD,GAME 303,Advanced 3D Sculpting,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Harper Wilson,Open (Enrollment > 0),Tuesday Thursday from 19:00-21:30 in MH MH207,3,9/2/25,12/20/25,10,20.0,10.0
+156,Fall 2025,010TRAD,GAME 303X,Advanced  3D Sculp,DIRS,CS1,Burbank,MCD,GAME ART,UNDERG,Dr. Skyler Martinez,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+157,Fall 2025,010TRAD,GAME 307,Character Rigging,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Skyler Martinez,Open (Enrollment > 0),Tuesday Thursday from 13:15-15:45 in MH MH207,3,9/2/25,12/20/25,10,20.0,10.0
+158,Fall 2025,010TRAD,GAME 309,3D Game Animation,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Skyler Martinez,Open (Enrollment > 0),Monday Wednesday from 13:15-15:45 in MH MH207,3,9/2/25,12/20/25,10,20.0,10.0
+159,Fall 2025,010TRAD,GAME 311,Game Player Analysis,LECT,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Morgan Hernandez,Open (Enrollment > 0),Monday Wednesday from 19:00-21:30 in MH MH209,3,9/2/25,12/20/25,6,20.0,14.0
+160,Fall 2025,010TRAD,GAME 321,User Interface Design,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Alex Johnson,Open (Enrollment > 0),Tuesday Thursday from 19:00-21:30 in MH MH209,3,9/2/25,12/20/25,5,20.0,15.0
+161,Fall 2025,010TRAD,GAME 431,Degree Project: R & D,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Skyler Martinez,Open (Enrollment > 0),Monday Wednesday from 16:15-18:45 in MH MH207,3,9/2/25,12/20/25,15,20.0,5.0
+162,Fall 2025,010TRAD,GAME 2711,Game Engine Technique,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Riley Taylor,Open (Enrollment > 0),Monday Wednesday from 13:15-15:45 in MH MH209,3,9/2/25,12/20/25,9,20.0,11.0
+163,Fall 2025,010TRAD,GAME 2713,Game Programming Patterns,STU,F1,Burbank,MCD,GAME ART,UNDERG,Dr. Riley Taylor,Open (Enrollment > 0),Monday Wednesday from 16:15-18:45 in MH MH209,3,9/2/25,12/20/25,8,20.0,12.0
+164,Fall 2025,010TRAD,GDES 107,Digital Practice,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Avery Brown,Open (Enrollment > 0),Tuesday Thursday from 16:15-18:45 in MH MH205,3,9/2/25,12/20/25,16,18.0,2.0
+165,Fall 2025,010TRAD,GDES 207,Digital Media,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Jamie Davis,Open (Enrollment > 0),Tuesday Thursday from 9:00-11:30 in DC DC105,3,9/2/25,12/20/25,10,18.0,8.0
+166,Fall 2025,010TRAD,GDES 216,Typography 2,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Casey Davis,Open (Enrollment > 0),Monday Wednesday from 16:15-18:45 in DC DC208,3,9/2/25,12/20/25,12,18.0,6.0
+167,Fall 2025,010TRAD,GDES 220,Advanced Digital Techniques,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Avery Wilson,Open (Enrollment > 0),Monday Wednesday from 13:15-15:45 in DC DC207,3,9/2/25,12/20/25,9,18.0,9.0
+168,Fall 2025,010TRAD,GDES 240,Photography 1,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Rowan Wilson,Open (Enrollment > 0),Monday Wednesday from 16:15-18:45 in MH MH205,3,9/2/25,12/20/25,7,18.0,11.0
+169,Fall 2025,010TRAD,GDES 250,Screen Printing 1,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Morgan Moore,Cancel,Monday Wednesday from 16:15-18:45,3,9/2/25,12/20/25,0,14.0,14.0
+170,Fall 2025,010TRAD,GDES 256,Interaction Design 1,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Avery Wilson,Open (Enrollment > 0),Tuesday Thursday from 19:00-21:30 in MH MH205,3,9/2/25,12/20/25,10,18.0,8.0
+171,Fall 2025,010TRAD,GDES 310,Information Design,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Dakota Rodriguez,Open (Enrollment > 0),"Friday from 13:15-15:45 in MH MH205(Other day/time/location(s) for this section: 
+Friday from 9:00-11:45 in MH MH205)",3,9/2/25,12/20/25,5,18.0,13.0
+172,Fall 2025,010TRAD,GDES 360,Screen Printing 2,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Morgan Moore,Cancel,Monday Wednesday from 16:15-18:45,3,9/2/25,12/20/25,0,4.0,4.0
+173,Fall 2025,010TRAD,GDES 417,Typography 3,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Harper Anderson,Open (Enrollment > 0),Tuesday Thursday from 16:15-18:45 in DC DC207,3,9/2/25,12/20/25,9,18.0,9.0
+174,Fall 2025,010TRAD,GDES 430,Advertising Design,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Harper Anderson,Open (Enrollment > 0),Monday Wednesday from 13:15-15:45 in DC DC206,3,9/2/25,12/20/25,9,18.0,9.0
+175,Fall 2025,010TRAD,GDES 492,Degree Project,STU,F1,Burbank,MCD,GRAPHD,UNDERG,Dr. Dakota Rodriguez,Open (Enrollment > 0),"Friday from 9:00-11:30 in DC DC207(Other day/time/location(s) for this section: 
+Friday from 13:15-15:45 in DC DC207)",3,9/2/25,12/20/25,6,18.0,12.0
+176,Fall 2025,010TRAD,GDES 5990,Photography 1,INDS,F1,Burbank,MCD,GRAPHD,GRAD,Dr. Rowan Wilson,Open (No Enrollment),Wednesday from 19:00-21:30,3,9/2/25,12/20/25,0,1.0,1.0
+177,Fall 2025,010TRAD,GDES 5991,Advertising Design,INDS,F1,Burbank,MCD,,GRAD,Dr. Harper Anderson,Closed (Enrollment > 0),Monday Wednesday from 13:15-15:45 in DC DC206,3,9/2/25,12/20/25,1,1.0,0.0
+178,Fall 2025,010TRAD,GSCM 5700,Construction Management and Contract Adm,LECT,HY1,Burbank,ARCH,CONMG,GRAD,Dr. Harper Moore,Cancel,Friday from 9:00-11:30,3,9/2/25,12/20/25,0,1.0,1.0
+179,Fall 2025,010TRAD,GSCM 5701,Construction Surveying & Estimating,LECT,HY1,Burbank,ARCH,CONMG,GRAD,Dr. Peyton Davis,Cancel,Thursday from 9:00-11:30 in DC DC103,3,9/2/25,12/20/25,0,3.0,3.0
+180,Fall 2025,010TRAD,GSDC 5700,History & Theory of Design Computation,LECT,ON1,Burbank,ARCH,DESCOMP,GRAD,Dr. Cameron Martinez,Cancel,On Line from 0:59-1:00,3,9/2/25,12/20/25,0,1.0,1.0
+181,Fall 2025,010TRAD,GSDC 5701,Computer Science 1,LECT,F1,Burbank,ARCH,DESCOMP,GRAD,Dr. Reese Taylor,Cancel,Monday Wednesday from 9:00-11:30 in DC DC205,3,9/2/25,12/20/25,0,1.0,1.0
+182,Fall 2025,010TRAD,HONR 2712,Manifesting Change,LECT,F1,Burbank,LIBART,HONR,UNDERG,Dr. Harper Garcia,Open (Enrollment > 0),Tuesday from 12:00-12:50 in BB BB205,1,9/2/25,12/20/25,14,20.0,6.0
+183,Fall 2025,010TRAD,HONR 5990,Manifesting Change,INDS,F1,Burbank,LIBART,HONR,GRAD,Dr. Harper Garcia,Closed (Enrollment > 0),Tuesday from 12:00-12:50 in BB BB205,1,9/2/25,12/20/25,1,1.0,0.0
+184,Fall 2025,010TRAD,IDES 101,Studio 1,STU,F1,Burbank,ARCH,IDES,,Dr. Alex Martinez,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in AB AB107,6,9/2/25,12/20/25,7,10.0,3.0
+185,Fall 2025,010TRAD,IDES 164,Interior Design History 1,LECT,OS1,Burbank,ARCH,IDES,UNDERG,Dr. Taylor Garcia,Open (Enrollment > 0),Monday Wednesday from 10:30-11:45,3,9/2/25,12/20/25,8,10.0,2.0
+186,Fall 2025,010TRAD,IDES 201,Design Studio Three,STU,F1,Burbank,ARCH,IDES,UNDERG,Dr. Harper Garcia,Open (Enrollment > 0),Wednesday Friday from 9:00-14:00 in NB NB100,6,9/2/25,12/20/25,2,16.0,14.0
+187,Fall 2025,010TRAD,IDES 254,Const Docs (Revit),LECT,F1,Burbank,ARCH,IDES,UNDERG,Dr. Quinn Wilson,Closed (Enrollment > 0),Monday Wednesday from 17:40-18:55 in BB BB210,3,9/2/25,12/20/25,4,3.0,-1.0
+188,Fall 2025,010TRAD,IDES 254,Const Docs (Revit),LECT,F2,Burbank,ARCH,IDES,UNDERG,Dr. Quinn Wilson,Open (Enrollment > 0),Monday Wednesday from 19:00-20:15 in BB BB210,3,9/2/25,12/20/25,4,12.0,8.0
+189,Fall 2025,010TRAD,IDES 259,Tectonics 1: Material Logic,STU,F1,Burbank,ARCH,IDES,UNDERG,Dr. Parker Brown,Open (Enrollment > 0),Tuesday Friday from 9:00-11:30 in DC DC209,3,9/2/25,12/20/25,3,8.0,5.0
+190,Fall 2025,010TRAD,IDES 301,Design Studio Five,STU,F1,Burbank,ARCH,IDES,UNDERG,Dr. Reese Jackson,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS203,6,9/2/25,12/20/25,6,12.0,6.0
+191,Fall 2025,010TRAD,IDES 401,Design Studio 7,STU,F1,Burbank,ARCH,IDES,UNDERG,Dr. Avery Brown,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS205,6,9/2/25,12/20/25,8,16.0,8.0
+192,Fall 2025,010TRAD,IDES 469,Human Wellbeing,LECT,F1,Burbank,ARCH,IDES,UNDERG,Dr. Avery Brown,Open (Enrollment > 0),Tuesday from 12:00-12:50 in BB BB210,1,9/2/25,12/20/25,13,24.0,11.0
+193,Fall 2025,010TRAD,IDES 482,Senior Project Seminar,LECT,F1,Burbank,ARCH,IDES,UNDERG,Dr. Skyler Moore,Cancel,Tuesday Thursday from 10:30-11:45 in BB BB207,3,9/2/25,12/20/25,0,16.0,16.0
+194,Fall 2025,010TRAD,IDES 482,Senior Project Seminar,LECT,F2,Burbank,ARCH,IDES,UNDERG,Dr. Drew Martin,Cancel,Tuesday Thursday from 10:30-11:45 in BB BB204,3,9/2/25,12/20/25,0,3.0,3.0
+195,Fall 2025,010TRAD,IDES 482,Senior Project Seminar,LECT,F3,Burbank,ARCH,IDES,UNDERG,Dr. Logan Davis,Cancel,Tuesday Thursday from 10:30-11:45 in BB BB206,3,9/2/25,12/20/25,0,3.0,3.0
+196,Fall 2025,010TRAD,IDES 482,Senior Project Seminar,LECT,F4,Burbank,ARCH,IDES,UNDERG,Dr. Dakota Miller,Cancel,Tuesday Thursday from 10:30-11:45 in BB BB205,3,9/2/25,12/20/25,0,3.0,3.0
+197,Fall 2025,010TRAD,IDES 482,Senior Project Seminar,LECT,F5,Burbank,ARCH,IDES,UNDERG,Dr. Drew Martinez,Cancel,Tuesday Thursday from 10:30-11:45 in BB BB102,3,9/2/25,12/20/25,0,3.0,3.0
+198,Fall 2025,010TRAD,IDES 482,Senior Project Seminar,LECT,F6,Burbank,ARCH,IDES,UNDERG,Dr. Reese Jackson,Open (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in DC DC206,3,9/2/25,12/20/25,8,10.0,2.0
+199,Fall 2025,010TRAD,IDES 482,Senior Project Seminar,LECT,F7,Burbank,ARCH,IDES,UNDERG,Dr. Skyler Martin,Cancel,Tuesday Thursday from 10:30-11:45 in MH MH111,3,9/2/25,12/20/25,0,3.0,3.0
+200,Fall 2025,010TRAD,IDES 503,Graduate Studio 3,STU,F1,Burbank,ARCH,IDES,GRAD,Dr. Reese Jackson,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in JS JS107,6,9/2/25,12/20/25,1,4.0,3.0
+201,Fall 2025,010TRAD,INDS 101,Journeys,LECT,F1,Burbank,LIBART,INDS,UNDERG,Dr. Jamie Thomas,Closed (Enrollment > 0),Monday Wednesday from 10:30-11:45 in BB BB209,3,9/2/25,12/20/25,24,24.0,0.0
+202,Fall 2025,010TRAD,INDS 101,Journeys,LECT,F2,Burbank,LIBART,INDS,UNDERG,Dr. Alex Lopez,Open (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in BB BB209,3,9/2/25,12/20/25,23,24.0,1.0
+203,Fall 2025,010TRAD,INDS 101,Journeys,LECT,F3,Burbank,LIBART,INDS,UNDERG,Dr. Jamie Thomas,Open (Enrollment > 0),Tuesday Thursday from 13:15-14:30 in BB BB202,3,9/2/25,12/20/25,23,24.0,1.0
+204,Fall 2025,010TRAD,INDS 101,Journeys,LECT,ON1,Burbank,LIBART,INDS,UNDERG,Dr. Jamie Smith,Open (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,23,24.0,1.0
+205,Fall 2025,010TRAD,INDS 102,Natures,LECT,Test,Burbank,LIBART,INDS,UNDERG,Dr. Alex Lopez,Closed (No Enrollment),Monday Thursday from 19:00-21:30 in BB BB101,3,9/2/25,12/20/25,0,0.0,0.0
+206,Fall 2025,010TRAD,INDS 200,Introduction Interdisciplinary Studies,LECT,ON1,Burbank,LIBART,INDS,UNDERG,Dr. Jamie Smith,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,15,15.0,0.0
+207,Fall 2025,010TRAD,INDS 330,Seminar in Transdisciplinary Studies,LECT,F1,Burbank,LIBART,INDS,UNDERG,Dr. Jamie Smith,Cancel,Monday Wednesday from 9:00-10:15 in BB BB209,3,9/2/25,12/20/25,0,20.0,20.0
+208,Fall 2025,010TRAD,INDS 340,Human Agency and Interior Spaces,LECT,F1,Burbank,LIBART,INDS,UNDERG,Dr. Avery Brown,Closed (Enrollment > 0),Friday from 9:00-11:30 in BB BB209,3,9/2/25,12/20/25,22,20.0,-2.0
+209,Fall 2025,010TRAD,INDS 490,Internship,INTN,F1,Burbank,LIBART,INDS,UNDERG,Dr. Alex Lopez,Closed (Enrollment > 0),Internship from 0:59-1:00,4,9/2/25,12/20/25,2,1.0,-1.0
+210,Fall 2025,010TRAD,INDS 491X,Senior Thesis: Preparation,DIRS,CS1,Burbank,LIBART,INDS,UNDERG,Dr. Cameron Williams,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,6,6.0,0.0
+211,Fall 2025,010TRAD,INDS 492X,Senior Thesis:Execution,DIRS,CS1,Burbank,LIBART,INDS,UNDERG,Dr. Alex Lopez,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+212,Fall 2025,010TRAD,INDS 3706,"Consumption, Environment and Action",LECT,F1,Burbank,LIBART,INDS,UNDERG,Dr. Harper Brown,Open (Enrollment > 0),Monday from 19:00-21:30 in BB BB204,3,9/2/25,12/20/25,13,20.0,7.0
+213,Fall 2025,010TRAD,INDS 3758,"Women, Sexuality and  Aging",LECT,OS1,Burbank,LIBART,INDS,UNDERG,Dr. Quinn Miller,Open (Enrollment > 0),Tuesday from 19:00-21:30,3,9/2/25,12/20/25,15,20.0,5.0
+214,Fall 2025,010TRAD,INDS 3793,Celebrity Reality Workshop: Building You,LECT,F1,Burbank,LIBART,INDS,UNDERG,Dr. Dakota Moore,Open (Enrollment > 0),Tuesday Thursday from 9:00-10:15 in MH MH111,3,9/2/25,12/20/25,6,20.0,14.0
+215,Fall 2025,010TRAD,LSCI 105,Information Theory and Practice,LECT,F1,Burbank,LIB,LSCI,UNDERG,Dr. Cameron Hernandez,Cancel,Tuesday from 16:15-17:30,1,9/2/25,12/20/25,0,20.0,20.0
+216,Fall 2025,010TRAD,LSCI 105,Information Theory and Practice,LECT,F2,Burbank,LIB,LSCI,UNDERG,Dr. Harper Garcia,Closed (Enrollment > 0),Wednesday from 11:50-13:5 in LA LA106,1,9/2/25,12/20/25,20,20.0,0.0
+217,Fall 2025,010TRAD,LSCI 105,Information Theory and Practice,LECT,F3,Burbank,LIB,LSCI,UNDERG,Dr. Harper Garcia,Closed (Enrollment > 0),Thursday from 11:50-13:5 in LA LA106,1,9/2/25,12/20/25,20,20.0,0.0
+218,Fall 2025,010TRAD,LSCI 105,Information Theory and Practice,LECT,F4,Burbank,LIB,LSCI,UNDERG,Dr. Avery Wilson,Open (Enrollment > 0),Wednesday from 16:15-17:30 in LA LA106,1,9/2/25,12/20/25,19,20.0,1.0
+219,Fall 2025,010TRAD,LSCI 105,Information Theory and Practice,LECT,OS1,Burbank,LIB,LSCI,UNDERG,Dr. Avery Wilson,Closed (Enrollment > 0),Tuesday from 11:50-13:5 in LA LA106,1,9/2/25,12/20/25,20,20.0,0.0
+220,Fall 2025,010TRAD,LSCI 105,Information Theory and Practice,LECT,OS2,Burbank,LIB,LSCI,UNDERG,Dr. Jamie Jones,Closed (Enrollment > 0),Wednesday from 11:50-13:5 in BB BB203,1,9/2/25,12/20/25,20,20.0,0.0
+221,Fall 2025,010TRAD,LSCI 106,Information Sources in Arch/Int. Design,LECT,F1,Burbank,LIB,LSCI,UNDERG,Dr. Taylor Smith,Open (Enrollment > 0),Monday from 11:50-13:5 in LA LA106,1,9/2/25,12/20/25,19,20.0,1.0
+222,Fall 2025,010TRAD,MATH 100,Pre-Statistics,LECT,F1,Burbank,LIBART,MATH,UNDERG,Dr. Drew Thomas,Open (Enrollment > 0),Monday Wednesday from 9:00-10:15 in BB BB204,3,9/2/25,12/20/25,18,20.0,2.0
+223,Fall 2025,010TRAD,MATH 100,Pre-Statistics,LECT,F2,Burbank,LIBART,MATH,UNDERG,Dr. Drew Thomas,Cancel,Tuesday Thursday from 9:00-10:15 in BB BB209,3,9/2/25,12/20/25,0,20.0,20.0
+224,Fall 2025,010TRAD,MATH 149,Intermediate Algebra,LECT,F1,Burbank,LIBART,MATH,UNDERG,Dr. Parker Miller,Open (Enrollment > 0),Monday Wednesday from 14:45-16:00 in BB BB202,3,9/2/25,12/20/25,17,20.0,3.0
+225,Fall 2025,010TRAD,MATH 149,Intermediate Algebra,LECT,Test,Burbank,LIBART,MATH,UNDERG,Dr. Cameron Hernandez,Closed (No Enrollment),Hybrid from 0:00-1:59,3,9/2/25,12/20/25,0,0.0,0.0
+226,Fall 2025,010TRAD,MATH 200,Math Ideas,LECT,F1,Burbank,LIBART,MATH,UNDERG,Dr. Rowan Thomas,Open (Enrollment > 0),Tuesday Thursday from 13:15-14:30 in BB BB203,3,9/2/25,12/20/25,8,20.0,12.0
+227,Fall 2025,010TRAD,MATH 220,Business Math,LECT,F1,Burbank,LIBART,MATH,UNDERG,Dr. Drew Thomas,Closed (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in BB BB203,3,9/2/25,12/20/25,20,20.0,0.0
+228,Fall 2025,010TRAD,MATH 226,Business Statistics,LECT,F1,Burbank,LIBART,MATH,UNDERG,Dr. Drew Thomas,Open (Enrollment > 0),Monday Wednesday from 10:30-11:45 in BB BB204,3,9/2/25,12/20/25,9,20.0,11.0
+229,Fall 2025,010TRAD,MATH 249,College Algebra,LECT,F1,Burbank,LIBART,MATH,UNDERG,Dr. Drew Thomas,Closed (Enrollment > 0),Monday Wednesday from 13:15-14:30 in BB BB208,3,9/2/25,12/20/25,21,20.0,-1.0
+230,Fall 2025,010TRAD,MATH 251,Trigonometry,LECT,F1,Burbank,LIBART,MATH,UNDERG,Dr. Parker Miller,Open (Enrollment > 0),Monday Wednesday from 13:15-14:30 in BB BB206,3,9/2/25,12/20/25,6,20.0,14.0
+231,Fall 2025,010TRAD,MATH 311X,Probability and Statistics II,DIRS,CS1,Burbank,LIBART,MATH,UNDERG,Dr. Drew Thomas,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+232,Fall 2025,010TRAD,MDST 120,Public Speaking,LECT,F1,Burbank,MCD,MDST,UNDERG,Dr. Jamie Smith,Closed (Enrollment > 0),Monday Wednesday from 10:30-11:45 in BB BB208,3,9/2/25,12/20/25,20,20.0,0.0
+233,Fall 2025,010TRAD,MDST 120,Public Speaking,LECT,F2,Burbank,MCD,MDST,UNDERG,Dr. Rowan Davis,Open (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in BB BB208,3,9/2/25,12/20/25,17,20.0,3.0
+234,Fall 2025,010TRAD,MDST 120,Public Speaking,LECT,F3,Burbank,MCD,MDST,UNDERG,Dr. Jamie Davis,Open (Enrollment > 0),Tuesday Thursday from 9:00-10:15 in BB BB104,3,9/2/25,12/20/25,8,20.0,12.0
+235,Fall 2025,010TRAD,MDST 235,Media Ethics,LECT,F1,Burbank,MCD,MDST,UNDERG,Dr. Casey Brown,Open (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in BB BB104,3,9/2/25,12/20/25,19,20.0,1.0
+236,Fall 2025,010TRAD,MDST 237,Media and Identity,LECT,F1,Burbank,MCD,MDST,UNDERG,Dr. Rowan Davis,Open (Enrollment > 0),Tuesday Thursday from 13:15-14:30 in BB BB104,3,9/2/25,12/20/25,15,20.0,5.0
+237,Fall 2025,010TRAD,MDST 300,Censorship,LECT,F1,Burbank,MCD,MDST,UNDERG,Dr. Morgan Garcia,Open (Enrollment > 0),Monday from 16:15-18:45 in EM EM101,3,9/2/25,12/20/25,16,20.0,4.0
+238,Fall 2025,010TRAD,MDST 335,Media and Social Change,LECT,F1,Burbank,MCD,MDST,UNDERG,Dr. Rowan Davis,Cancel,Wednesday from 16:15-18:45 in EM EM101,3,9/2/25,12/20/25,0,20.0,20.0
+239,Fall 2025,010TRAD,MGMT 100,Fundamentals of Business Enterprise,LECT,F1,Burbank,BUS,MGMT,UNDERG,Dr. Peyton Jones,Open (Enrollment > 0),Monday from 16:15-18:45 in BB BB204,3,9/2/25,12/20/25,17,20.0,3.0
+240,Fall 2025,010TRAD,MGMT 110,Legal Environment of Business,LECT,F1,Burbank,BUS,MGMT,UNDERG,Dr. Rowan Smith,Open (Enrollment > 0),Tuesday Thursday from 14:45-16:00 in BB BB204,3,9/2/25,12/20/25,7,20.0,13.0
+241,Fall 2025,010TRAD,MGMT 336,Management Information Systems,LECT,F1,Burbank,BUS,MGMT,UNDERG,Dr. Morgan Anderson,Open (Enrollment > 0),Wednesday from 19:00-21:30 in DC DC201,3,9/2/25,12/20/25,13,20.0,7.0
+242,Fall 2025,010TRAD,MGMT 483,Business Policy and Strategy,LECT,F1,Burbank,BUS,MGMT,UNDERG,Dr. Taylor Williams,Open (Enrollment > 0),Wednesday from 19:00-21:30 in BB BB102,3,9/2/25,12/20/25,12,20.0,8.0
+243,Fall 2025,010TRAD,MGMT 490,Internship,INTN,F1,Burbank,BUS,MGMT,UNDERG,Dr. Dakota Martinez,Closed (Enrollment > 0),Internship from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+244,Fall 2025,010TRAD,MRKT 301,Principles of Marketing,LECT,F1,Burbank,BUS,MRKT,UNDERG,Dr. Riley Williams,Open (Enrollment > 0),Thursday from 19:00-21:30 in BB BB102,3,9/2/25,12/20/25,7,20.0,13.0
+245,Fall 2025,010TRAD,MRKT 355,Market Research and Analysis,LECT,F1,Burbank,BUS,MRKT,UNDERG,Dr. Taylor Williams,Open (Enrollment > 0),Monday Wednesday from 16:15-17:30 in BB BB201,3,9/2/25,12/20/25,11,20.0,9.0
+246,Fall 2025,010TRAD,PASS 100,First Year Seminar,LECT,F1,Burbank,LIBART,PASS,UNDERG,Dr. Blake Lopez,Open (Enrollment > 0),Monday from 12:00-12:50 in BB BB209,1,9/2/25,12/20/25,23,24.0,1.0
+247,Fall 2025,010TRAD,PASS 100,First Year Seminar,LECT,F2,Burbank,LIBART,PASS,UNDERG,Dr. Peyton Martin,Open (Enrollment > 0),Monday from 12:00-12:50 in BB BB210,1,9/2/25,12/20/25,23,24.0,1.0
+248,Fall 2025,010TRAD,PASS 100,First Year Seminar,LECT,F3,Burbank,LIBART,PASS,UNDERG,Dr. Riley Anderson,Open (Enrollment > 0),Monday from 12:00-12:50 in CH CH207,1,9/2/25,12/20/25,16,24.0,8.0
+249,Fall 2025,010TRAD,PASS 200,Transfer Seminar,LECT,F1,Burbank,LIBART,PASS,UNDERG,Dr. Riley Anderson,Open (Enrollment > 0),Monday from 12:00-12:50 in CH CH207,1,9/2/25,12/20/25,7,20.0,13.0
+250,Fall 2025,010TRAD,PHIL 210,Ethical Systems,LECT,F1,Burbank,LIBART,PHILOSOPHY,UNDERG,Dr. Jordan Brown,Closed (Enrollment > 0),Monday Wednesday from 13:15-14:30 in BB BB210,3,9/2/25,12/20/25,20,20.0,0.0
+251,Fall 2025,010TRAD,PHIL 210,Ethical Systems,LECT,F2,Burbank,LIBART,PHILOSOPHY,UNDERG,Dr. Cameron Williams,Open (Enrollment > 0),Monday Wednesday from 14:45-16:00 in BB BB209,3,9/2/25,12/20/25,14,20.0,6.0
+252,Fall 2025,010TRAD,PHIL 210,Ethical Systems,LECT,F3,Burbank,LIBART,PHILOSOPHY,UNDERG,Dr. Harper Johnson,Open (Enrollment > 0),Wednesday from 19:00-21:30 in BB BB209,3,9/2/25,12/20/25,12,20.0,8.0
+253,Fall 2025,010TRAD,PHIL 3709,Environmental Philosophy,LECT,F1,Burbank,LIBART,PHILOSOPHY,UNDERG,Dr. Cameron Williams,Open (Enrollment > 0),Monday from 19:00-21:30 in BB BB205,3,9/2/25,12/20/25,12,20.0,8.0
+254,Fall 2025,010TRAD,POHI 101,"The State, The Economy, and The City",LECT,ON1,Burbank,LIBART,POLITICS,UNDERG,Dr. Morgan Thomas,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,20,20.0,0.0
+255,Fall 2025,010TRAD,POHI 321,International Wars,LECT,F1,Burbank,LIBART,POLITICS,UNDERG,Dr. Morgan Thomas,Open (Enrollment > 0),Monday Wednesday from 14:45-16:00 in BB BB205,3,9/2/25,12/20/25,8,20.0,12.0
+256,Fall 2025,010TRAD,POHI 335,Migration and Colonization,LECT,F1,Burbank,LIBART,POLITICS,UNDERG,Dr. Reese Rodriguez,Open (Enrollment > 0),Monday Wednesday from 13:15-14:30 in BB BB205,3,9/2/25,12/20/25,12,20.0,8.0
+257,Fall 2025,010TRAD,POHI 337,United States Constitutional Law,LECT,F1,Burbank,LIBART,POLITICS,UNDERG,Dr. Taylor Johnson,Open (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in BB BB202,3,9/2/25,12/20/25,14,20.0,6.0
+258,Fall 2025,010TRAD,PSAD 313X,Criminal Investigations,DIRS,CS1,Burbank,,,,Dr. Alex Lopez,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+259,Fall 2025,010TRAD,PSYC 200,Introduction to Psychology,LECT,F1,Burbank,LIBART,PSYCH,UNDERG,Dr. Quinn Miller,Open (Enrollment > 0),Tuesday Thursday from 16:15-17:30 in BB BB104,3,9/2/25,12/20/25,12,20.0,8.0
+260,Fall 2025,010TRAD,PSYC 200,Introduction to Psychology,LECT,F2,Burbank,LIBART,PSYCH,UNDERG,Dr. Quinn Miller,Cancel,Tuesday Thursday from 17:40-18:55,3,9/2/25,12/20/25,0,20.0,20.0
+261,Fall 2025,010TRAD,PSYC 200,Introduction to Psychology,LECT,test,Burbank,LIBART,PSYCH,UNDERG,Dr. Alex Lopez,Closed (No Enrollment),On Line from 0:59-1:00,3,9/2/25,12/20/25,0,0.0,0.0
+262,Fall 2025,010TRAD,PSYC 305,Personality,LECT,F1,Burbank,LIBART,PSYCH,UNDERG,Dr. Harper Jones,Open (Enrollment > 0),Thursday from 16:15-18:45 in BB BB204,3,9/2/25,12/20/25,13,20.0,7.0
+263,Fall 2025,010TRAD,PSYC 309,Abnormal Psychology,LECT,F1,Burbank,LIBART,PSYCH,UNDERG,Dr. Harper Jones,Open (Enrollment > 0),Thursday from 19:00-21:30 in BB BB204,3,9/2/25,12/20/25,7,20.0,13.0
+264,Fall 2025,010TRAD,PSYC 319,Introduction to Counseling,LECT,F1,Burbank,LIBART,PSYCH,UNDERG,Dr. Harper Jones,Open (Enrollment > 0),Tuesday from 16:15-18:45 in BB BB202,3,9/2/25,12/20/25,11,20.0,9.0
+265,Fall 2025,010TRAD,PSYC 402,Advanced Research Methods,LECT,F1,Burbank,LIBART,PSYCH,UNDERG,Dr. Quinn Miller,Open (Enrollment > 0),Tuesday Thursday from 13:15-14:55 in BB BB208,4,9/2/25,12/20/25,2,20.0,18.0
+266,Fall 2025,010TRAD,PSYC 410,Senior Thesis,LAB,F1,Burbank,LIBART,PSYCH,UNDERG,Dr. Quinn Miller,Cancel,Tuesday Thursday from 13:15-15:45,3,9/2/25,12/20/25,0,20.0,20.0
+267,Fall 2025,010TRAD,PSYC 490,Internship,INTN,F1,Burbank,LIBART,PSYCH,UNDERG,Dr. Alex Lopez,Closed (Enrollment > 0),Internship from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+268,Fall 2025,010TRAD,PSYC 5990,Personality,INDS,F1,Burbank,LIBART,PSYCH,GRAD,Dr. Harper Jones,Closed (Enrollment > 0),Thursday from 16:15-18:45 in BB BB204,3,9/2/25,12/20/25,1,1.0,0.0
+269,Fall 2025,010TRAD,SUPR 100,Intro to Environmental Prob & Des,STU,F1,Burbank,ARCH,SUSPRACT,UNDERG,Dr. Taylor Garcia,Cancel,Monday Wednesday from 9:00-11:30,3,9/2/25,12/20/25,0,16.0,16.0
+270,Fall 2025,010TRAD,SUPR 110,Intro to Environ Policy and Management,LECT,HY1,Burbank,ARCH,SUSPRACT,UNDERG,Dr. Harper Moore,Open (Enrollment > 0),Monday Wednesday from 14:45-16:00 in BB BB208,3,9/2/25,12/20/25,18,20.0,2.0
+271,Fall 2025,010TRAD,SUPR 201,Sustainable Practices: Design,STU,F1,Burbank,ARCH,SUSPRACT,UNDERG,Dr. Taylor Garcia,Cancel,Monday Wednesday from 16:15-18:45,3,9/2/25,12/20/25,0,16.0,16.0
+272,Fall 2025,010TRAD,SUPR 202,Environmental Core Design,STU,F1,Burbank,ARCH,SUSPRACT,UNDERG,Dr. Taylor Garcia,Cancel,Monday Wednesday from 16:15-18:45,3,9/2/25,12/20/25,0,16.0,16.0
+273,Fall 2025,010TRAD,SUPR 301,Third Year Studio,STU,F1,Burbank,ARCH,SUSPRACT,UNDERG,Dr. Taylor Garcia,Cancel,Monday Wednesday from 16:15-18:45,3,9/2/25,12/20/25,0,16.0,16.0
+274,Fall 2025,010TRAD,SUPR 321,Energy and Society,LECT,HY1,Burbank,ARCH,SUSPRACT,UNDERG,Dr. Harper Moore,Open (Enrollment > 0),Thursday from 13:15-15:45 in WH WH130,3,9/2/25,12/20/25,3,20.0,17.0
+275,Fall 2025,010TRAD,SUPR 352,Environ-mental  Law & Policy,LECT,OS1,Burbank,ARCH,SUSPRACT,UNDERG,Dr. Cameron Martinez,Open (Enrollment > 0),Thursday from 9:00-11:30,3,9/2/25,12/20/25,12,20.0,8.0
+276,Fall 2025,010TRAD,SUPR 401,Fourth Year Studio,STU,F1,Burbank,ARCH,SUSPRACT,UNDERG,Dr. Taylor Garcia,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in NB NB102,6,9/2/25,12/20/25,1,6.0,5.0
+277,Fall 2025,010TRAD,SUPR 5990,Environ-mental Law & Policy,INDS,OS1,Burbank,ARCH,SUSPRACT,GRAD,Dr. Cameron Martinez,Closed (Enrollment > 0),Thursday from 9:00-11:30,3,9/2/25,12/20/25,1,1.0,0.0
+278,Fall 2025,010TRAD,SUPR 5990,Intro to Environ Policy and Managment,INDS,HY1,Burbank,ARCH,SUSPRACT,GRAD,Dr. Harper Moore,Closed (Enrollment > 0),Hybrid from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+279,Fall 2025,010TRAD,SUPR 5991,Energy and Society,INDS,HY1,Burbank,ARCH,SUSPRACT,GRAD,Dr. Harper Moore,Closed (Enrollment > 0),Hybrid from 0:59-1:00,3,9/2/25,12/20/25,3,1.0,-2.0
+280,Fall 2025,010TRAD,URBS 100,Introduction to Urban Studies,LECT,ON1,Burbank,LIBART,URBS,UNDERG,Dr. Cameron Martinez,Open (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,14,15.0,1.0
+281,Fall 2025,010TRAD,URBS 302,Current Issues in Urban Studies,LECT,ON1,Burbank,LIBART,URBS,UNDERG,Dr. Cameron Martinez,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,10,10.0,0.0
+282,Fall 2025,010TRAD,URBS 321,Environmental Urbanism,LECT,ON1,Burbank,LIBART,URBS,UNDERG,Dr. Cameron Martinez,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,10,10.0,0.0
+283,Fall 2025,010TRAD,WRIT 113,First-Year Academic Writing,LECT,F1,Burbank,LIBART,WRIT,UNDERG,Dr. Skyler Martin,Closed (Enrollment > 0),Monday Wednesday from 10:30-11:45 in BB BB210,3,9/2/25,12/20/25,21,20.0,-1.0
+284,Fall 2025,010TRAD,WRIT 113,First-Year Academic Writing,LECT,F2,Burbank,LIBART,WRIT,UNDERG,Dr. Skyler Martin,Closed (Enrollment > 0),Monday Wednesday from 13:15-14:30 in BB BB202,3,9/2/25,12/20/25,21,20.0,-1.0
+285,Fall 2025,010TRAD,WRIT 113,First-Year Academic Writing,LECT,ON1,Burbank,LIBART,WRIT,UNDERG,Dr. Skyler Martin,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,20,20.0,0.0
+286,Fall 2025,010TRAD,WRIT 313,Advanced Academic Writing,LECT,F1,Burbank,LIBART,WRIT,UNDERG,Dr. Reese Rodriguez,Open (Enrollment > 0),Monday Wednesday from 9:00-10:15 in BB BB207,3,9/2/25,12/20/25,15,20.0,5.0
+287,Fall 2025,010TRAD,WRIT 313,Advanced Academic Writing,LECT,F2,Burbank,LIBART,WRIT,UNDERG,Dr. Reese Rodriguez,Open (Enrollment > 0),Monday Wednesday from 10:30-11:45 in BB BB207,3,9/2/25,12/20/25,19,20.0,1.0
+288,Fall 2025,010TRAD,WRIT 313,Advanced Academic Writing,LECT,F3,Burbank,LIBART,WRIT,UNDERG,Dr. Jamie Thomas,Closed (Enrollment > 0),Tuesday Thursday from 10:30-11:45 in BB BB210,3,9/2/25,12/20/25,20,20.0,0.0
+289,Fall 2025,010TRAD,WRIT 313,Advanced Academic Writing,LECT,ON1,Burbank,LIBART,WRIT,UNDERG,Dr. Cameron Wilson,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,23,20.0,-3.0
+290,Fall 2025,010TRAD,WRIT 313,Advanced Academic Writing,LECT,ON2,Burbank,LIBART,WRIT,UNDERG,Dr. Cameron Wilson,Closed (Enrollment > 0),On Line from 0:59-1:00,3,9/2/25,12/20/25,22,20.0,-2.0
+291,Fall 2025,010TRAD,WRIT 313,Advanced Academic Writing,LECT,ON3,Burbank,LIBART,WRIT,UNDERG,Dr. Casey Martin,Cancel,On Line from 0:59-1:00,3,9/2/25,12/20/25,0,20.0,20.0
+292,Fall 2025,010TRAD,WSDA 100,Leature Series,LECT,F2,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Thomas,Open (Enrollment > 0),Tuesday from 12:00-12:50 in MH MH111,1,9/2/25,12/20/25,8,20.0,12.0
+293,Fall 2025,010TRAD,WSDA 100,Lecture Series,LECT,F1,Burbank,ARCH,ARCH,UNDERG,Dr. Casey Miller,Closed (Enrollment > 0),Tuesday from 19:00-19:50 in NB NB100,1,9/2/25,12/20/25,20,20.0,0.0
+294,Fall 2025,010TRAD,WSDA 500,Groundworks,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Reese Smith,Open (Enrollment > 0),Mon Tues Wed Thu Fri from 13:15-15:50 in AB AB108,1,8/25/25,8/31/25,18,24.0,6.0
+295,Fall 2025,010TRAD,WSDA 501,Graduate Studio 1: Spaces within Spaces,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Taylor Thomas,Open (Enrollment > 0),Tuesday Friday from 13:15-18:15 in AB AB100,6,9/2/25,12/20/25,11,16.0,5.0
+296,Fall 2025,010TRAD,WSDA 503,Graduate Studio 3: Infrastructure,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Blake Martin,Cancel,Tuesday Friday from 13:15-18:15 in AB AB108,6,9/2/25,12/20/25,0,14.0,14.0
+297,Fall 2025,010TRAD,WSDA 521,Building 1: Matter and Making,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Morgan Anderson,Open (Enrollment > 0),Monday Wednesday from 9:00-10:15 in BB BB102,3,9/2/25,12/20/25,11,16.0,5.0
+298,Fall 2025,010TRAD,WSDA 523,Building 3: Advanced Structures,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Drew Smith,Cancel,Monday Wednesday from 13:15-14:30 in DC DC209,3,9/2/25,12/20/25,0,16.0,16.0
+299,Fall 2025,010TRAD,WSDA 531,Visualization 1: Making Technique,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Taylor Anderson,Open (Enrollment > 0),Tuesday Friday from 9:00-11:30 in DC DC202,3,9/2/25,12/20/25,11,12.0,1.0
+300,Fall 2025,010TRAD,WSDA 533,Visualization 3: Advanced Drawing,STU,F1,Burbank,ARCH,ARCH,GRAD,Dr. Drew Miller,Open (Enrollment > 0),Tuesday Friday from 9:00-11:30 in AL AL101,3,9/2/25,12/20/25,6,12.0,6.0
+301,Fall 2025,010TRAD,WSDA 541,Criticism 1: Architecture History 1,LECT,F1,Burbank,ARCH,ARCH,GRAD,Dr. Casey Johnson,Closed (Enrollment > 0),Monday from 16:15-18:45 in DC DC206,3,9/2/25,12/20/25,12,12.0,0.0
+302,Fall 2025,010TRAD,WSDA 561,Practice 1:Contemporary Arch Profession,LECT,F1,Burbank,ARCH,ARCH,GRAD,Dr. Harper Thomas,Open (Enrollment > 0),Wednesday from 19:00-21:30 in BB BB207,3,9/2/25,12/20/25,10,20.0,10.0
+303,Fall 2025,010TRAD,WSDA 561X,Practice 1: Contemporary ARCH Pro,DIRS,CS1,Burbank,ARCH,ARCH,GRAD,Dr. Harper Garcia,Closed (Enrollment > 0),Directed Study from 0:59-1:00,3,9/2/25,12/20/25,1,1.0,0.0
+304,Fall 2025,0608WK1,ACCT 501,Accounting Practices,LECT,BT,Burbank,BUS,ACCT,GRAD,Dr. Dakota Jones,Cancel,Monday from 18:00-22:00 in BB BB202,4,9/2/25,10/25/25,0,20.0,20.0
+305,Fall 2025,0608WK1,ARCH 625,Drawing and Making Workshop,STU,HYBT,Burbank,ARCH,ARCH,GRAD,Dr. Blake Smith,Cancel,Tuesday from 19:00-22:40,1,9/2/25,10/25/25,0,8.0,8.0
+306,Fall 2025,0608WK1,FINA 508,"Fund of FInance, Economics, Statistics",LECT,BT,Burbank,BUS,FINA,GRAD,Dr. Casey Miller,Cancel,Thursday from 18:00-22:00 in BB BB104,4,9/2/25,10/25/25,0,10.0,10.0
+307,Fall 2025,0608WK1,FMRK 348,The Art of Negotiation,LECT,BT,Burbank,BUS,FASHMK,UNDERG,Dr. Quinn Williams,Open (Enrollment > 0),Thursday from 18:00-22:00 in BB BB104,3,9/2/25,10/25/25,6,10.0,4.0
+308,Fall 2025,0608WK1,MGMT 326,Management and Organizational Behavior,LECT,BT,Burbank,BUS,MGMT,UNDERG,Dr. Peyton Jackson,Open (Enrollment > 0),Thursday from 18:00-22:00 in BB BB208,3,9/2/25,10/25/25,11,20.0,9.0
+309,Fall 2025,0608WK1,MGMT 330,Managerial Persuasion,LECT,BT,Burbank,BUS,MGMT,UNDERG,Dr. Quinn Williams,Open (Enrollment > 0),Thursday from 18:00-22:00 in BB BB104,3,9/2/25,10/25/25,9,10.0,1.0
+310,Fall 2025,0608WK1,MGMT 350,Business Ethics,LECT,BT,Burbank,BUS,MGMT,UNDERG,Dr. Riley Williams,Open (Enrollment > 0),Tuesday from 18:00-22:00 in BB BB102,3,9/2/25,10/25/25,3,20.0,17.0
+311,Fall 2025,0608WK1,MGMT 365,Social and Civic Innovation and Change,LECT,OSBT,Burbank,BUS,MGMT,UNDERG,Dr. Rowan Jackson,Open (Enrollment > 0),Monday from 18:00-22:00,3,9/2/25,10/25/25,13,20.0,7.0
+312,Fall 2025,0608WK1,MGMT 506,Organizational Behavior and Strategy,LECT,BT,Burbank,BUS,MGMT,GRAD,Dr. Taylor Moore,Cancel,Wednesday from 18:00-22:00 in BB BB204,4,9/2/25,10/25/25,0,15.0,15.0
+313,Fall 2025,0608WK1,MGMT 506,Organizational Behavior and Strategy,LECT,OSBT,Burbank,BUS,MGMT,GRAD,Dr. Taylor Moore,Open (Enrollment > 0),Wednesday from 18:00-22:00,4,9/2/25,10/25/25,6,20.0,14.0
+314,Fall 2025,0608WK1,MGMT 604,Managerial Economics,LECT,BT,Burbank,BUS,MGMT,GRAD,Dr. Jordan Davis,Open (Enrollment > 0),Tuesday from 18:00-22:00 in BB BB209,4,9/2/25,10/25/25,6,20.0,14.0
+315,Fall 2025,0608WK1,MGMT 608,Entrepreneurship,LECT,BT,Burbank,BUS,MGMT,GRAD,Dr. Taylor Williams,Open (Enrollment > 0),Tuesday from 18:00-22:00 in BB BB210,4,9/2/25,10/25/25,6,20.0,14.0
+316,Fall 2025,0608WK1,MGMT 609,Management of Information Technology,LECT,OSBT,Burbank,BUS,MGMT,GRAD,Dr. Morgan Anderson,Open (Enrollment > 0),Thursday from 18:00-22:00,4,9/2/25,10/25/25,12,20.0,8.0
+317,Fall 2025,0608WK1,MGMT 630,Creativity in Management,LECT,OSBT,Burbank,BUS,MGMT,GRAD,Dr. Jamie Jackson,Cancel,Monday from 18:00-22:00,4,9/2/25,10/25/25,0,20.0,20.0
+318,Fall 2025,0608WK1,MRKT 606,Marketing Concepts and Strategies,LECT,BT,Burbank,BUS,MRKT,GRAD,Dr. Dakota Martinez,Open (Enrollment > 0),Wednesday from 18:00-22:00 in BB BB104,4,9/2/25,10/25/25,10,20.0,10.0
+319,Fall 2025,0708WK2,ACCT 600,Financial Accounting,LECT,BU,Burbank,BUS,ACCT,GRAD,Dr. Harper Davis,Open (Enrollment > 0),Tuesday from 18:00-22:00 in BB BB204,4,10/27/25,12/20/25,7,20.0,13.0
+320,Fall 2025,0708WK2,FINA 607,"Managerial Finance, Theory and Practice",LECT,BU,Burbank,BUS,FINA,GRAD,Dr. Jordan Davis,Open (Enrollment > 0),Tuesday from 18:00-22:00 in BB BB209,4,10/27/25,12/20/25,8,20.0,12.0
+321,Fall 2025,0708WK2,FINA 612,Corporate Finance,LECT,BU,Burbank,BUS,FINA,GRAD,Dr. Casey Miller,Open (Enrollment > 0),Monday from 18:00-22:00 in MH MH111,4,10/27/25,12/20/25,6,20.0,14.0
+322,Fall 2025,0708WK2,FMRK 375,Field Experience,LECT,BU,Burbank,BUS,FASHMK,UNDERG,Dr. Dakota Martinez,Open (Enrollment > 0),Friday from 8:00-12:00 in BB BB102,3,10/27/25,12/20/25,9,10.0,1.0
+323,Fall 2025,0708WK2,MGMT 245,Global Enterprise,LECT,OSBU,Burbank,BUS,MGMT,UNDERG,Dr. Jamie Martin,Open (Enrollment > 0),Wednesday from 18:00-22:00,3,10/27/25,12/20/25,5,20.0,15.0
+324,Fall 2025,0708WK2,MGMT 366,Small Business Management,LECT,OSBU,Burbank,BUS,MGMT,UNDERG,Dr. Alex Anderson,Open (Enrollment > 0),Thursday from 18:00-22:00,3,10/27/25,12/20/25,10,20.0,10.0
+325,Fall 2025,0708WK2,MGMT 400,Operations Management,LECT,BU,Burbank,BUS,MGMT,UNDERG,Dr. Peyton Jackson,Open (Enrollment > 0),Tuesday from 18:00-22:00 in DC DC202,3,10/27/25,12/20/25,9,30.0,21.0
+326,Fall 2025,0708WK2,MGMT 461,Leadership,LECT,BU,Burbank,BUS,MGMT,UNDERG,Dr. Riley Williams,Open (Enrollment > 0),Tuesday from 18:00-22:00 in BB BB102,3,10/27/25,12/20/25,5,20.0,15.0
+327,Fall 2025,0708WK2,MGMT 603,Quantitative Methods Business Decisions,LECT,BU,Burbank,BUS,MGMT,GRAD,Dr. Casey Miller,Open (Enrollment > 0),Thursday from 18:00-22:00 in BB BB205,4,10/27/25,12/20/25,6,20.0,14.0
+328,Fall 2025,0708WK2,MGMT 605,Managing Leading Organizations Ethically,LECT,OSBU,Burbank,BUS,MGMT,GRAD,Dr. Taylor Moore,Open (Enrollment > 0),Wednesday from 18:00-22:00,4,10/27/25,12/20/25,10,15.0,5.0
+329,Fall 2025,0708WK2,MGMT 660,Ethical Leadership,LECT,OSBU,Burbank,BUS,MGMT,GRAD,Dr. Taylor Moore,Open (Enrollment > 0),Monday from 18:00-22:00,4,10/27/25,12/20/25,4,20.0,16.0
+330,Fall 2025,0708WK2,MGMT 682,Strategic Management and Consulting,LECT,BU,Burbank,BUS,MGMT,GRAD,Dr. Taylor Williams,Open (Enrollment > 0),Thursday from 18:00-22:00 in BB BB201,4,10/27/25,12/20/25,3,20.0,17.0
+331,Fall 2025,0708WK2,MRKT 343,Integrated Digital Marketing,LECT,OSBU,Burbank,BUS,MRKT,UNDERG,Dr. Riley Lopez,Open (Enrollment > 0),Thursday from 18:00-22:00,3,10/27/25,12/20/25,7,20.0,13.0
