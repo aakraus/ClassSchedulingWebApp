@@ -18,12 +18,19 @@ export function clearCharts() {
 
 export function renderAll({ timeAxis, days, matrix }, state) {
     // export function for visualization rendering
-    renderBar(timeAxis, days, matrix);
+    renderBar(timeAxis, days, matrix, state);
     renderHeatmap(timeAxis, days, matrix);
     renderTop5(timeAxis, days, matrix, state);
 }
 
 function renderBar(timeAxis, days, matrix, state) {
+    // check if state is missing
+    if (!state) return;
+
+    // check current state to determine label
+    const { weight } = state;
+    const chartLabel = weight === 'enrolled' ? 'Total Enrollment' : 'Class Count';
+
     // x-axis labels
     const labels = timeAxis.map(timeLabel);
 
@@ -40,7 +47,7 @@ function renderBar(timeAxis, days, matrix, state) {
     const ctx = document.getElementById('barChart').getContext('2d');
     barChart = new Chart(ctx, {
         type: 'bar',
-        data: { labels, datasets: [{ label: 'All selected days', data: series }] },
+        data: { labels, datasets: [{ label: chartLabel, data: series }] },
         options: {
             responsive: true,
             plugins: { legend: { display: true } },
